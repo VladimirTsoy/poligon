@@ -1,0 +1,91 @@
+<?xml version = "1.0"?>
+<!-- «стратегическая авиация с 2 СКР -->
+<TObjectContr>
+	<ObjectContr number = "1">
+		<tStart>1.0</tStart>
+		<tFinish>1130.0</tFinish>
+		<tAttack>60.0</tAttack>
+                <tIntervalAttack>1.0</tIntervalAttack>
+		<x>5000.0</x>
+		<y>5000.0</y>
+		<h>10000.0</h>
+		<psi>1.5708</psi>
+		<v>300.0</v>
+		<vh>0</vh>
+		<countManevr>1</countManevr>
+		<OGP>1</OGP>
+		<TLA>1</TLA>
+                <countKR>15</countKR>
+		<TKR>1</TKR>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+        <Manevr number = "1">
+			<tStart>90.1</tStart>
+                        <tFinish>142.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>5000.0</r>
+		</Manevr>
+     </ObjectContr>		
+		<ObjectContr number = "2">
+		<tStart>1.0</tStart>
+		<tFinish>1130.0</tFinish>
+		<tAttack>60.0</tAttack>
+                <tIntervalAttack>1.0</tIntervalAttack>
+		<x>55000.0</x>
+		<y>5000.0</y>
+		<h>10000.0</h>
+		<psi>1.8708</psi>
+		<v>300.0</v>
+		<vh>0</vh>
+		<countManevr>1</countManevr>
+		<OGP>1</OGP>
+		<TLA>1</TLA>
+                <countKR>15</countKR>
+                <TKR>0</TKR>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+        <Manevr number = "1">
+			<tStart>90.1</tStart>
+                        <tFinish>138.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>5000.0</r>
+		</Manevr>		
+	</ObjectContr>
+	<ObjectContr number = "3">
+		<tStart>1.0</tStart>
+		<tFinish>1130.0</tFinish>
+		<tAttack>60.0</tAttack>
+                <tIntervalAttack>10.0</tIntervalAttack>
+                <x>-25000.0</x>
+		<y>5000.0</y>
+		<h>10000.0</h>
+		<psi>1.2708</psi>
+		<v>300.0</v>
+		<vh>0</vh>
+		<countManevr>1</countManevr>
+		<OGP>1</OGP>
+		<TLA>1</TLA>
+                <countKR>15</countKR>
+                <TKR>0</TKR>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+        <Manevr number = "1">
+                        <tStart>220.1</tStart>
+                        <tFinish>268.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+                        <r>-5000.0</r>
+		</Manevr>
+     </ObjectContr>		
+</TObjectContr>
+
+
+

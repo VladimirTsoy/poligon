@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns:dds="http://www.omg.org/ptc/2011/01/07/XML_Type_Representation">
+ <modelIdentification>
+  <name>GenTrcMsg</name>
+  <purpose>Передача данных по обобщенной трассе в РДДС</purpose>
+  <version>0.0.1</version>
+  <modificationDate>03.12.2020</modificationDate>
+  <description>   Данные по обобщенной трассе поступают в реальном режиме времени. Здесь будет урезанная версия структуры PTPV_TGenTrcMsg.</description>
+ </modelIdentification>
+ <namespace>Message</namespace>
+ <constructedtypes>
+  <enumeration>
+   <name>EUTrcState</name>
+   <key>false</key>
+   <extensibility>final</extensibility>
+   <type>Int16</type>
+   <enumerator>
+    <name>EU_TS_NEW</name>
+    <value>1</value>
+    <definition>Новая</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_TS_TRK</name>
+    <value>2</value>
+    <definition>Сопровождаемая</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_TS_END</name>
+    <value>3</value>
+    <definition>Сбрасываемая</definition>
+   </enumerator>
+   <definition>Принзнак состояния сопровождения трассы</definition>
+  </enumeration>
+  <enumeration>
+   <name>EUYesNo</name>
+   <key>false</key>
+   <extensibility>final</extensibility>
+   <type>Int16</type>
+   <enumerator>
+    <name>EU_NO</name>
+    <value>0</value>
+    <definition>Нет</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_YES</name>
+    <value>1</value>
+    <definition>Да</definition>
+   </enumerator>
+   <definition>Тип информации (да - нет)</definition>
+  </enumeration>
+  <enumeration>
+   <name>SENS_MAX</name>
+   <key>false</key>
+   <extensibility>final</extensibility>
+   <type>Int32</type>
+   <enumerator>
+    <name>SENS_MAX</name>
+    <value>6</value>
+    <definition>Максимальное число источников, увеличеное на 1</definition>
+   </enumerator>
+   <definition></definition>
+  </enumeration>
+  <enumeration>
+   <name>EUOGP</name>
+   <key>false</key>
+   <extensibility>final</extensibility>
+   <type>Int32</type>
+   <enumerator>
+    <name>EU_OGP_UNKNOW</name>
+    <value>0</value>
+    <definition>Не опознан</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_OGP_HOSTILE</name>
+    <value>1</value>
+    <definition>Чужой</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_OGP_MB_FRIEND</name>
+    <value>2</value>
+    <definition>Свой, общее опознование</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_OGP_FRIEND</name>
+    <value>3</value>
+    <definition>Свой, гарантированное опознование</definition>
+   </enumerator>
+   <enumerator>
+    <name>EU_OGP_MAX</name>
+    <value>4</value>
+    <definition></definition>
+   </enumerator>
+   <definition>Результат опознования гос принадлежности</definition>
+  </enumeration>
+  <enumeration>
+   <name>command_enum</name>
+   <key>false</key>
+   <extensibility>final</extensibility>
+   <type>Int32</type>
+   <enumerator>
+    <name>Start</name>
+    <value>0</value>
+    <definition>Команда старт</definition>
+   </enumerator>
+   <enumerator>
+    <name>Stop</name>
+    <value>1</value>
+    <definition>Команда стоп</definition>
+   </enumerator>
+   <definition>Для отправки команды старт или стоп</definition>
+  </enumeration>
+  <array>
+   <name>ArrayTrcNum</name>
+   <type>Int32</type>
+   <shared>false</shared>
+   <bounds>6</bounds>
+   <key>false</key>
+   <definition>Массив номеров трасс от источников сопровождения. Индекс элемента массива соотв. номеру источника </definition>
+  </array>
+  <array>
+   <name>ArrZone</name>
+   <type>Int16</type>
+   <shared>false</shared>
+   <bounds>5</bounds>
+   <key>false</key>
+   <definition>Максимальное количество зон специального района</definition>
+  </array>
+  <array>
+   <name>ArrZoneProgn</name>
+   <type>Boolean</type>
+   <shared>false</shared>
+   <bounds>5</bounds>
+   <key>false</key>
+   <definition>Зоны специального района</definition>
+  </array>
+  <string>
+   <name>String8</name>
+   <type>Char8</type>
+   <maxLength>-1</maxLength>
+   <key>true</key>
+   <definition>Строка ASCII символов неограниченной длины. Задается как базовый тип.</definition>
+  </string>
+  <string>
+   <name>String32</name>
+   <type>Char32</type>
+   <maxLength>-1</maxLength>
+   <key>true</key>
+   <definition>Строка символов UTF16 неограниченной длины. Задается как базовый типам.</definition>
+  </string>
+  <structure>
+   <name>TGenTcrMsg</name>
+   <memberAgregate>
+    <name>genTrcNum</name>
+    <type>Int32</type>
+    <key>true</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Номер обобщенной трассы</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>trcState</name>
+    <type>EUTrcState</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Признак состояния сопровождения трассы</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>sensAdd</name>
+    <type>EUYesNo</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Добавление источника</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>sensDelete</name>
+    <type>EUYesNo</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Удаление источника</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>imitObj</name>
+    <type>EUYesNo</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Признак имитационного объекта</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>tStart</name>
+    <type>Float64</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Время образования обобщ. трассы</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>tXYUpdate</name>
+    <type>Float64</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Время обновления координат Х и У</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>tHUpdate</name>
+    <type>Float64</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Время обновления высоты</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>tHBarUpdate</name>
+    <type>Float64</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Время обновления барометрической высоты</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>tOGPUpdate</name>
+    <type>Float64</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Время обновления ОГП</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>tIndNumUpdate</name>
+    <type>Float64</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Время обновления индивидуального номера</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>x</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Координата Х</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>y</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Координата У</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>h</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Высота (глубина)</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>hBar</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Барометрическая высота</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>Vx</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Составляющая скорости по Х</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>Vy</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Составляющая скорости по У</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>psi</name>
+    <type>Float32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Курс движения</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>manevr</name>
+    <type>EUYesNo</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Признак наличия маневра</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>quant</name>
+    <type>Int16</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Количественный состав (1 - 15)</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>sensCount</name>
+    <type>Int16</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Кол-во источников сопровождающих данную трассу</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>id</name>
+    <type>UInt64</type>
+    <key>true</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition></definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>OGP</name>
+    <type>EUOGP</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>ОГП</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>objClass</name>
+    <type>Int16</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Категория объекта: возд, на повр-ти</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>flyViolatKind</name>
+    <type>Int16</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Вид нарушения режима полета</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>zones</name>
+    <type>ArrZone</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Принадлежность объекта зоне</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>x_progn</name>
+    <type>Int32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Прогноз координаты Х</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>y_progn</name>
+    <type>Int32</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Прогноз координаты Y</definition>
+   </memberAgregate>
+   <memberAgregate>
+    <name>zones_progn</name>
+    <type>ArrZoneProgn</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition>Принадлежность объекта зоне</definition>
+   </memberAgregate>
+   <verbatim>
+    <language>c++</language>
+    <placement>before-declaration</placement>
+    <text></text>
+   </verbatim>
+   <definition>Обобщённая трассовая информация объекта (ВО, МО, НО) потребителям ПК ТОИ.</definition>
+  </structure>
+  <structure>
+   <name>command_str</name>
+   <memberAgregate>
+    <name>command</name>
+    <type>command_enum</type>
+    <key>false</key>
+    <shared>false</shared>
+    <optional>false</optional>
+    <definition></definition>
+   </memberAgregate>
+   <verbatim>
+    <language>c++</language>
+    <placement>before-declaration</placement>
+    <text></text>
+   </verbatim>
+   <definition>Структура для оптравки команды старт или стоп</definition>
+  </structure>
+ </constructedtypes>
+ <topicDataType>
+  <structName>TGenTcrMsg</structName>
+  <keys>
+   <key>id</key>
+   <key>genTrcNum</key>
+  </keys>
+  <definition></definition>
+ </topicDataType>
+ <topicDataType>
+  <structName>command_str</structName>
+  <keys/>
+  <definition>Топик передачи команды. Источник команды один, ключи не требуются.</definition>
+ </topicDataType>
+</module>

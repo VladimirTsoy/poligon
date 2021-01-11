@@ -1,0 +1,32 @@
+<!-- Зисточники информации -->
+
+<!--Зхарактетистики ИИ по типу [TOI]-->
+<TCharSens>
+        <CharSens number = "1">         <!--45л6-1-->
+                <hMax>40000.0</hMax>
+                <hMin>5.0</hMin>
+                <maxCountTrc>500</maxCountTrc>
+                <rMax>600000</rMax>
+                <rMin>100</rMin>
+                <trustXY>300</trustXY>
+                <trustH>300</trustH>
+	</CharSens>
+        <CharSens number = "2">        <!--99Ш6(М)-->
+                <hMax>40000.0</hMax>
+                <hMin>5.0</hMin>
+                <maxCountTrc>400</maxCountTrc>
+                <rMax>400000</rMax>
+                <rMin>100</rMin>
+                <trustXY>250</trustXY>
+                <trustH>250</trustH>
+        </CharSens>
+        <CharSens number = "3">      <!--алеврит-->
+                <hMax>36000.0</hMax>
+                <maxCountTrc>100</maxCountTrc>
+                <rMax>350000</rMax>
+                <rMin>100</rMin>
+                <trustXY>1800</trustXY>
+                <trustH>1800</trustH>
+        </CharSens>
+</TCharSens>
+		

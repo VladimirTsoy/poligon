@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/xml">
+        <file>tobjectcontr.xml</file>
+        <file>SensSite.xml</file>
+        <file>CharSens.xml</file>
+        <file>KRManevr.xml</file>
+        <file>PozRegion.xml</file>
+    </qresource>
+</RCC>

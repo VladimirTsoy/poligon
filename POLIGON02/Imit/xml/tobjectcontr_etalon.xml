@@ -1,0 +1,350 @@
+<?xml version = "1.0"?>
+<!-- 15.04.18 КЗ-КРЫМ продолжительность 1600с колонна 3 танка, 1 корабль+ флот 3 коробля,-->
+<!-- 26.074.18   3 СА, без подвижных источников информации-->
+<TObjectContr>
+      <ObjectContr number = "1">
+                      <tStart>36.0</tStart>
+                      <tFinish>1890.0</tFinish>
+                      <tAttack>120.0</tAttack>
+                      <tIntervalAttack>1.0</tIntervalAttack>
+                     <x>-303000.0</x>   <!--<x>5000.0</x>-->
+                      <y>-800000.0</y>   <!--<y>5000.0</y>-->
+                      <h>10000.0</h>
+                      <psi>1.4117</psi>  <!--81град-->
+                      <v>300.0</v>
+                      <vh>0</vh>
+                      <countManevr>1</countManevr>
+                      <ObjClass>1</ObjClass>   <!--ВО-->
+                      <OGP>1</OGP>
+                      <IVO>3</IVO>     <!--ВП-->
+                      <TVO>14</TVO>   <!--СА-->
+                      <countKR>15</countKR>
+                      <TKR>0</TKR>
+                      <trackBz>1</trackBz>
+                      <imitObj>0</imitObj>
+                      <trsChar>0</trsChar>
+                      <trackImit>1</trackImit>
+              <Manevr number = "1">
+                              <tStart>140.1</tStart>
+                              <tFinish>186.5</tFinish>
+                              <a>0.0</a>
+                              <vh>0.0</vh>
+                              <r>5000.0</r>
+                      </Manevr>
+           </ObjectContr>
+                      <ObjectContr number = "2">
+                      <tStart>41.0</tStart>
+                      <tFinish>1255.0</tFinish>
+                      <tAttack>170.0</tAttack>
+                      <tIntervalAttack>1.0</tIntervalAttack>
+                     <x>-250000.0</x>  <!-- <x>250000.0</x>-->
+                     <y>-800000</y>   <!-- <y>5000.0</y>-->
+                      <h>10000.0</h>
+                      <psi>1.5882</psi>   <!--91град-->
+                      <v>300.0</v>
+                      <vh>0</vh>
+                      <countManevr>1</countManevr>
+                      <ObjClass>1</ObjClass>   <!--ВО-->
+                      <OGP>1</OGP>
+                      <IVO>3</IVO>     <!--ВП-->
+                      <TVO>14</TVO>   <!--СА-->
+                      <countKR>15</countKR>
+                      <TKR>0</TKR>
+                      <trackBz>1</trackBz>
+                      <imitObj>0</imitObj>
+                      <trsChar>0</trsChar>
+                      <trackImit>1</trackImit>
+              <Manevr number = "1">
+                              <tStart>190.1</tStart>
+                              <tFinish>242.1</tFinish>
+                              <a>0.0</a>
+                              <vh>0.0</vh>
+                              <r>5000.0</r>
+                      </Manevr>
+              </ObjectContr>
+              <ObjectContr number = "3">
+                      <tStart>45.0</tStart>
+                      <tFinish>1241.0</tFinish>
+                      <tAttack>170.0</tAttack>
+                      <tIntervalAttack>1.0</tIntervalAttack>
+                      <x>-333000.0</x>  <!--<x>-25000.0</x>-->
+                     <y>-800000.0</y>  <!-- <y>5000.0</y>-->
+                      <h>10000.0</h>
+                      <psi>1.2708</psi>
+                      <v>300.0</v>
+                      <vh>0</vh>
+                      <countManevr>1</countManevr>
+                      <ObjClass>1</ObjClass>   <!--ВО-->
+                      <OGP>1</OGP>
+                      <TVO>14</TVO>            <!--СА-->
+                      <countKR>15</countKR>
+                      <TKR>0</TKR>
+                      <trackBz>1</trackBz>
+                      <imitObj>0</imitObj>
+                      <trsChar>0</trsChar>
+                      <trackImit>1</trackImit>
+              <Manevr number = "1">
+                              <tStart>190.1</tStart>
+                              <tFinish>238.1</tFinish>
+                              <a>0.0</a>
+                              <vh>0.0</vh>
+                              <r>-5000.0</r>
+                      </Manevr>
+           </ObjectContr>
+     <ObjectContr number = "4">
+                <tStart>1.0</tStart>
+                <tFinish>3040.0</tFinish>
+                <x>-400000.0</x>
+                <y>-300000.0</y>
+                <h>2.0</h>
+                <psi>5.4978</psi>      <!--315град-->
+                <v>16.0</v>
+                <vh>0.0</vh>
+		<countManevr>0</countManevr>
+                <ObjClass>2</ObjClass>   <!--морской-->
+                <OGP>1</OGP>
+                <IVO>0</IVO>     <!--ВП-->
+                <TVO>11</TVO>   <!--ЭСМИНЕЦ-->
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+                <trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+      </ObjectContr>
+       <ObjectContr number = "5">
+                   <tStart>1.0</tStart>
+                   <tFinish>1600.0</tFinish>
+                   <x>-400000.0</x>
+                   <y>-310000.0</y>
+                   <h>2.0</h>
+                   <psi>5.4978</psi>   <!--315град-->
+                   <v>16.0</v>
+                   <vh>0.0</vh>
+                   <countManevr>0</countManevr>
+                   <ObjClass>2</ObjClass>   <!--морской-->
+                   <OGP>1</OGP>
+                   <IVO>0</IVO>     <!--ВП-->
+                   <TVO>12</TVO>   <!--ФРЕГАТ-->
+                   <trackBz>1</trackBz>
+                   <imitObj>0</imitObj>
+                   <trsChar>0</trsChar>
+                   <trackImit>1</trackImit>
+         </ObjectContr>
+         <ObjectContr number = "6">
+                    <tStart>1.0</tStart>
+                    <tFinish>1600.0</tFinish>
+                    <x>-400000.0</x>
+                    <y>-290000.0</y>
+                    <h>2.0</h>
+                    <psi>5.4978</psi>    <!--315град-->
+                    <v>16.0</v>
+                    <vh>0.0</vh>
+                    <countManevr>0</countManevr>
+                    <ObjClass>2</ObjClass>   <!--морской-->
+                    <OGP>1</OGP>
+                    <IVO>0</IVO>     <!--ВП-->
+                    <TVO>12</TVO>   <!--ФРЕГАТ-->
+                    <trackBz>1</trackBz>
+                    <imitObj>0</imitObj>
+                    <trsChar>0</trsChar>
+                    <trackImit>1</trackImit>
+          </ObjectContr>
+          <ObjectContr number = "7">
+                     <tStart>1.0</tStart>
+                     <tFinish>1600.0</tFinish>
+                     <x>-500000.0</x>
+                     <y>-500000.0</y>
+                     <h>2.0</h>
+                     <psi>0.8727</psi>  <!--50град-->
+                     <v>16.0</v>
+                     <vh>0.0</vh>
+                     <countManevr>0</countManevr>
+                     <ObjClass>2</ObjClass>   <!--морской-->
+                     <OGP>1</OGP>
+                     <IVO>0</IVO>     <!--ВП-->
+                     <TVO>10</TVO>   <!--KРЕЙСЕР-->
+                     <trackBz>1</trackBz>
+                     <imitObj>0</imitObj>
+                     <trsChar>0</trsChar>
+                     <trackImit>1</trackImit>
+           </ObjectContr>
+           <ObjectContr number = "8">
+                      <tStart>1.0</tStart>
+                      <tFinish>3040.0</tFinish>
+                      <x>-50000.0</x>
+                      <y>-510000.0</y>
+                      <h>2.0</h>
+                      <psi>2.2689</psi>  <!--130град-->
+                      <v>10.0</v>
+                      <vh>0.0</vh>
+                      <countManevr>0</countManevr>
+                      <ObjClass>3</ObjClass>   <!--наземный-->
+                      <OGP>1</OGP>
+                      <IVO>0</IVO>     <!--ВП-->
+                      <TVO>3</TVO>   <!--TANK-->
+                      <trackBz>1</trackBz>
+                      <imitObj>0</imitObj>
+                      <trsChar>0</trsChar>
+                      <trackImit>1</trackImit>
+            </ObjectContr>
+           <ObjectContr number = "9">
+                      <tStart>1.0</tStart>
+                      <tFinish>3040.0</tFinish>
+                      <x>-50000.0</x>
+                      <y>-510510.0</y>
+                      <h>2.0</h>
+                      <psi>2.2689</psi>  <!--130град-->
+                      <v>10.0</v>
+                      <vh>0.0</vh>
+                      <countManevr>0</countManevr>
+                      <ObjClass>3</ObjClass>   <!--наземный-->
+                      <OGP>1</OGP>
+                      <IVO>0</IVO>     <!--ВП-->
+                      <TVO>3</TVO>   <!--TANK-->
+                      <trackBz>1</trackBz>
+                      <imitObj>0</imitObj>
+                      <trsChar>0</trsChar>
+                      <trackImit>1</trackImit>
+            </ObjectContr>
+            <ObjectContr number = "10">
+                       <tStart>1.0</tStart>
+                       <tFinish>3040.0</tFinish>
+                       <x>-50000.0</x>
+                       <y>-511000.0</y>
+                       <h>2.0</h>
+                       <psi>2.2689</psi>  <!--130град-->
+                       <v>10.0</v>
+                       <vh>0.0</vh>
+                       <countManevr>0</countManevr>
+                       <ObjClass>3</ObjClass>   <!--наземный-->
+                       <OGP>1</OGP>
+                       <IVO>0</IVO>     <!--ВП-->
+                       <TVO>3</TVO>   <!--TANK-->
+                       <trackBz>1</trackBz>
+                       <imitObj>0</imitObj>
+                       <trsChar>0</trsChar>
+                       <trackImit>1</trackImit>
+             </ObjectContr>
+           <ObjectContr number = "11">
+                      <tStart>80.0</tStart>
+                      <tFinish>1600.0</tFinish>
+                              <x>-640000.0</x>
+                              <y>-270000.0</y>
+                              <h>2.0</h>
+                              <psi>0.0</psi>  <!--00град-->
+                              <v>0.001</v>
+                              <vh>0.0</vh>
+                              <countManevr>0</countManevr>
+                              <ObjClass>3</ObjClass>   <!--наземный-->
+                              <OGP>1</OGP>
+                              <IVO>0</IVO>     <!--0-->
+                              <TVO>1</TVO>     <!--КП-->
+                              <trackBz>1</trackBz>
+                              <imitObj>0</imitObj>
+                              <trsChar>0</trsChar>
+                              <trackImit>1</trackImit>
+                    </ObjectContr>
+                    <ObjectContr number = "12">
+                               <tStart>70.0</tStart>
+                               <tFinish>1600.0</tFinish>
+                               <x>-600000.0</x>
+                               <y>-400000.0</y>
+                               <h>2.0</h>
+                               <psi>0.0</psi>  <!--00град-->
+                               <v>0.001</v>
+                               <vh>0.0</vh>
+                               <countManevr>0</countManevr>
+                               <ObjClass>3</ObjClass>   <!--наземный-->
+                               <OGP>1</OGP>
+                               <IVO>0</IVO>     <!--0-->
+                               <TVO>2</TVO>   <!--АЭРОДРОМ-->
+                               <trackBz>1</trackBz>
+                               <imitObj>0</imitObj>
+                               <trsChar>0</trsChar>
+                               <trackImit>1</trackImit>
+                     </ObjectContr>
+                     <ObjectContr number = "13">
+                                <tStart>1.0</tStart>
+                                <tFinish>1600.0</tFinish>
+                                <x>-60000.0</x>
+                                <y>-290000.0</y>
+                                <h>2.0</h>
+                                <psi>3.9270</psi>  <!--225град-->
+                                <v>10.0</v>
+                                <vh>0.0</vh>
+                                <countManevr>0</countManevr>
+                                <ObjClass>3</ObjClass>   <!--наземный-->
+                                <OGP>1</OGP>
+                                <IVO>0</IVO>     <!--0-->
+                                <TVO>3</TVO>   <!--ТАНК-->
+                                <trackBz>1</trackBz>
+                                <imitObj>0</imitObj>
+                                <trsChar>0</trsChar>
+                                <trackImit>1</trackImit>
+                      </ObjectContr>
+                      <ObjectContr number = "14">
+                                 <tStart>1.0</tStart>
+                                 <tFinish>3040.0</tFinish>
+                                 <x>-60500.0</x>
+                                 <y>-290500.0</y>
+                                 <h>2.0</h>
+                                 <psi>3.9270</psi>  <!--225град-->
+                                 <v>10.0</v>
+                                 <vh>0.0</vh>
+                                 <countManevr>0</countManevr>
+                                 <ObjClass>3</ObjClass>   <!--наземный-->
+                                 <OGP>1</OGP>
+                                 <IVO>0</IVO>     <!--ВП-->
+                                 <TVO>3</TVO>   <!--ТАНK-->
+                                 <trackBz>1</trackBz>
+                                 <imitObj>0</imitObj>
+                                 <trsChar>0</trsChar>
+                                 <trackImit>1</trackImit>
+                       </ObjectContr>
+                       <ObjectContr number = "15">
+                                  <tStart>1.0</tStart>
+                                  <tFinish>3040.0</tFinish>
+                                  <x>-59500.0</x>
+                                  <y>-289500.0</y>
+                                  <h>2.0</h>
+                                  <psi>3.9270</psi>  <!--225град-->
+                                  <v>10.0</v>
+                                  <vh>0.0</vh>
+                                  <countManevr>0</countManevr>
+                                  <ObjClass>3</ObjClass>   <!--наземный-->
+                                  <OGP>1</OGP>
+                                  <IVO>0</IVO>     <!--ВП-->
+                                  <TVO>3</TVO>   <!--ТАНК-->
+                                  <trackBz>1</trackBz>
+                                  <imitObj>0</imitObj>
+                                  <trsChar>0</trsChar>
+                                  <trackImit>1</trackImit>
+                        </ObjectContr>
+                        <ObjectContr number = "16">
+                                   <tStart>60.0</tStart>
+                                   <tFinish>3040.0</tFinish>
+                                   <x>-85000.0</x>
+                                   <y>-480000.0</y>
+                                   <h>2.0</h>
+                                   <psi>0</psi>  <!--130град-->
+                                   <v>0.001</v>
+                                   <vh>0.0</vh>
+                                   <countManevr>0</countManevr>
+                                   <ObjClass>3</ObjClass>   <!--наземный-->
+                                   <OGP>1</OGP>
+                                   <IVO>0</IVO>     <!--ВП-->
+                                   <TVO>1</TVO>   <!--КП-->
+                                   <trackBz>1</trackBz>
+                                   <imitObj>0</imitObj>
+                                   <trsChar>0</trsChar>
+                                   <trackImit>1</trackImit>
+                         </ObjectContr>
+ </TObjectContr>
+
+
+
+
+
+
+
+
+

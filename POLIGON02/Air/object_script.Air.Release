@@ -1,0 +1,17 @@
+release/TAir.o
+release/TGeneralTrackAir.o
+release/TMsgsFormAir.o
+release/TTrcProcAir.o
+release/TPrognProcAir.o
+release/TZoneProcAir.o
+release/DispatcherNe.o
+release/DispatcherTable.o
+release/GenTrack.o
+release/Msg.o
+release/Num.o
+release/Task.o
+release/TrackNum.o
+release/TrcNum.o
+release/mathd.o
+release/point_in_zone_checker.o
+release/qrc_rsrses.o

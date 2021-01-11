@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="TObjectContr" type="TObjectContr_type">
+	</xsd:element>
+
+	<xsd:complexType name="TObjectContr_type">
+		<xsd:sequence>
+			<xsd:element name="ObjectContr" type="ObjectContr_type" minOccurs="1" maxOccurs="100" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="ObjectContr_type">
+		<xsd:sequence>
+			<xsd:element name="tStart" type="tStart_type" />
+			<xsd:element name="tFinish" type="tFinish_type" />
+			<xsd:element name="tAttack" type="tAttack_type" minOccurs="0" />
+			<xsd:element name="tIntervalAttack" type="tIntervalAttack_type" minOccurs="0" />
+			<xsd:element name="x" type="x_type" />
+			<xsd:element name="y" type="y_type" />
+			<xsd:element name="h" type="h_type" />
+			<xsd:element name="psi" type="psi_type" />
+			<xsd:element name="v" type="v_type" />
+			<xsd:element name="vh" type="vh_type" minOccurs="0" />
+			<xsd:element name="distance" type="distance_type" minOccurs="0"/>
+			<xsd:element name="numPozRegion" type="numPozRegion_type" minOccurs="0" />
+			<xsd:element name="countManevr" type="countManevr_type" minOccurs="0" />
+			<xsd:element name="OGP" type="OGP_type" />
+			<xsd:element name="IVO" type="IVO_type" />
+			<xsd:element name="TVO" type="TVO_type" />
+			<xsd:element name="countKR" type="countKR_type" minOccurs="0"/>
+			<xsd:element name="TKR" type="TKR_type" minOccurs="0" />
+			<xsd:element name="trackBz" type="trackBz_type" minOccurs="0" />
+			<xsd:element name="imitObj" type="imitObj_type" minOccurs="0" />
+			<xsd:element name="trsChar" type="trsChar_type" minOccurs="0" />
+			<xsd:element name="trackImit" type="trackImit_type" minOccurs="0" />
+
+			<xsd:group ref="Manevr_group" minOccurs="0" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:group name="Manevr_group">
+		<xsd:sequence>
+			<xsd:element name="Manevr" type="Manevr_type" minOccurs="1" maxOccurs="1000" />
+		</xsd:sequence>
+	</xsd:group>
+
+	<xsd:complexType name="Manevr_type">
+		<xsd:sequence>
+			<xsd:element name="tStart" type="tStart_type" />
+			<xsd:element name="tFinish" type="tFinish_type" />
+			<xsd:element name="a" type="a_type" />
+			<xsd:element name="vh" type="vh_type" />
+			<xsd:element name="r" type="r_type" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:simpleType name="number_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="1000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="tStart_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="tFinish_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="tAttack_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="tIntervalAttack_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="x_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="y_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="h_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="psi_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+			<xsd:maxInclusive value="6.29"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="v_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="distance_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="numPozRegion_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="100"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="vh_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="countManevr_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+			<xsd:maxInclusive value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="OGP_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="11"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="IVO_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+			<xsd:maxInclusive value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="TVO_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="countKR_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="100"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="TKR_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="trackBz_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+			<xsd:maxInclusive value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="imitObj_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+			<xsd:maxInclusive value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="trsChar_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+			<xsd:maxInclusive value="20"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="trackImit_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+			<xsd:maxInclusive value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="a_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="r_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+
+</xsd:schema>

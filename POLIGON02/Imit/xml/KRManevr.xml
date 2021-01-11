@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- //маневры для размножения крылатых ракет -->
+<TKRManevr>
+	<KRManevr number = "1">
+		<countManevr>1</countManevr>
+		<Manevr number = "1">
+			<tStart>150.1</tStart>
+			<tFinish>151.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>-500.0</r>
+		</Manevr>
+	</KRManevr>		
+	<KRManevr number = "2">
+		<countManevr>1</countManevr>
+		<Manevr number = "1">
+			<tStart>160.1</tStart>
+			<tFinish>200.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>-1155.0</r>
+		</Manevr>
+	</KRManevr>		
+</TKRManevr>
+
+
+

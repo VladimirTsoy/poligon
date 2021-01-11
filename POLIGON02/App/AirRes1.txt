@@ -1,0 +1,8104 @@
+ Results of an air targets data process.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+TAir::TrcStateCheck started at 1594983913.00 c... 
+
+TAir::GetMsg started ...                   {1}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 1 - new
+    t = 914.00
+    x = 40000 +- 300
+    y = 429561 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1, 	/NEW/
+ t = 914.00,	/msgTime = 914.00/
+ x = 40000 +- 300,
+ y = 429561 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {2}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 1 - new
+    t = 914.00
+    x = 210275 +- 300
+    y = 110327 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.872665
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2, 	/NEW/
+ t = 914.00,	/msgTime = 914.00/
+ x = 210275 +- 300,
+ y = 110327 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.872665
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {3}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 1 - new
+    t = 914.00
+    x = 647722 +- 300
+    y = -179519 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3, 	/NEW/
+ t = 914.00,	/msgTime = 914.00/
+ x = 647722 +- 300,
+ y = -179519 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {4}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 1 - new
+    t = 914.00
+    x = 539586 +- 300
+    y = 150347 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4, 	/NEW/
+ t = 914.00,	/msgTime = 914.00/
+ x = 539586 +- 300,
+ y = 150347 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {5}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 1 - new
+    t = 915.00
+    x = 40000 +- 250
+    y = 429336 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1,
+ t = 915.00,	/msgTime = 915.00/
+ x = 40000 +- 250,
+ y = 429336 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {6}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 1 - new
+    t = 915.00
+    x = 210419 +- 250
+    y = 110500 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.872665
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2,
+ t = 915.00,	/msgTime = 915.00/
+ x = 210419 +- 250,
+ y = 110500 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.872665
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {7}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 1 - new
+    t = 915.00
+    x = 647572 +- 250
+    y = -179260 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3,
+ t = 915.00,	/msgTime = 915.00/
+ x = 647572 +- 250,
+ y = -179260 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {8}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 1 - new
+    t = 915.00
+    x = 539356 +- 250
+    y = 150540 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4,
+ t = 915.00,	/msgTime = 915.00/
+ x = 539356 +- 250,
+ y = 150540 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {9}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 1 - new
+    t = 916.00
+    x = 40000 +- 250
+    y = 429111 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 916.00,	/msgTime = 916.00/
+ x = 40000 +- 250,
+ y = 429111 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {10}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 1 - new
+    t = 916.00
+    x = 210564 +- 250
+    y = 110672 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.872665
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 916.00,	/msgTime = 916.00/
+ x = 210564 +- 250,
+ y = 110672 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.872665
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {11}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 1 - new
+    t = 916.00
+    x = 647422 +- 250
+    y = -179000 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 916.00,	/msgTime = 916.00/
+ x = 647422 +- 250,
+ y = -179000 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {12}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 1 - new
+    t = 916.00
+    x = 539127 +- 250
+    y = 150733 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 916.00,	/msgTime = 916.00/
+ x = 539127 +- 250,
+ y = 150733 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983923.00 c... 
+
+TAir::GetMsg started ...                   {13}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 925.00
+    x = 40000 +- 300
+    y = 427086 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 925.00,	/msgTime = 925.00/
+ x = 40000 +- 300,
+ y = 427086 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {14}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 925.00
+    x = 211869 +- 300
+    y = 112221 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.859615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 925.00,	/msgTime = 925.00/
+ x = 211869 +- 300,
+ y = 112221 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.859615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {15}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 925.00
+    x = 646072 +- 300
+    y = -176661 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 925.00,	/msgTime = 925.00/
+ x = 646072 +- 300,
+ y = -176661 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {16}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 925.00
+    x = 537058 +- 300
+    y = 152468 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 925.00,	/msgTime = 925.00/
+ x = 537058 +- 300,
+ y = 152468 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {17}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 926.00
+    x = 40000 +- 250
+    y = 426861 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 926.00,	/msgTime = 926.00/
+ x = 40000 +- 250,
+ y = 426861 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {18}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 926.00
+    x = 212016 +- 250
+    y = 112391 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.855115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 926.00,	/msgTime = 926.00/
+ x = 212016 +- 250,
+ y = 112391 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.859615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {19}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 926.00
+    x = 645922 +- 250
+    y = -176402 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 926.00,	/msgTime = 926.00/
+ x = 645922 +- 250,
+ y = -176402 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {20}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 926.00
+    x = 536829 +- 250
+    y = 152661 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 926.00,	/msgTime = 926.00/
+ x = 536829 +- 250,
+ y = 152661 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {21}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 927.00
+    x = 40000 +- 250
+    y = 426636 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 927.00,	/msgTime = 927.00/
+ x = 40000 +- 250,
+ y = 426636 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {22}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 927.00
+    x = 212164 +- 250
+    y = 112560 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.850615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 927.00,	/msgTime = 927.00/
+ x = 212164 +- 250,
+ y = 112561 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.859615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {23}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 927.00
+    x = 645772 +- 250
+    y = -176142 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 927.00,	/msgTime = 927.00/
+ x = 645772 +- 250,
+ y = -176142 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {24}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 927.00
+    x = 536599 +- 250
+    y = 152854 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 927.00,	/msgTime = 927.00/
+ x = 536599 +- 250,
+ y = 152854 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983933.00 c... 
+
+TAir::GetMsg started ...                   {25}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 936.00
+    x = 40000 +- 300
+    y = 424611 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 936.00,	/msgTime = 936.00/
+ x = 40000 +- 300,
+ y = 424611 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {26}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 936.00
+    x = 213530 +- 300
+    y = 114055 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.810115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 936.00,	/msgTime = 936.00/
+ x = 213530 +- 300,
+ y = 114055 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.810115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {27}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 936.00
+    x = 644422 +- 300
+    y = -173804 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 936.00,	/msgTime = 936.00/
+ x = 644422 +- 300,
+ y = -173804 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {28}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 936.00
+    x = 534530 +- 300
+    y = 154590 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 936.00,	/msgTime = 936.00/
+ x = 534530 +- 300,
+ y = 154590 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {29}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 937.00
+    x = 40000 +- 250
+    y = 424386 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 937.00,	/msgTime = 937.00/
+ x = 40000 +- 250,
+ y = 424386 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {30}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 937.00
+    x = 213686 +- 250
+    y = 114218 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.805615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 937.00,	/msgTime = 937.00/
+ x = 213686 +- 250,
+ y = 114218 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.810115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {31}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 937.00
+    x = 644272 +- 250
+    y = -173544 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 937.00,	/msgTime = 937.00/
+ x = 644272 +- 250,
+ y = -173544 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {32}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 937.00
+    x = 534301 +- 250
+    y = 154782 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 937.00,	/msgTime = 937.00/
+ x = 534301 +- 250,
+ y = 154782 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {33}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 938.00
+    x = 40000 +- 250
+    y = 424161 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 938.00,	/msgTime = 938.00/
+ x = 40000 +- 250,
+ y = 424161 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {34}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 938.00
+    x = 213842 +- 250
+    y = 114380 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.801115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 938.00,	/msgTime = 938.00/
+ x = 213842 +- 250,
+ y = 114380 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.810115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {35}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 938.00
+    x = 644122 +- 250
+    y = -173284 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 938.00,	/msgTime = 938.00/
+ x = 644122 +- 250,
+ y = -173284 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {36}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 938.00
+    x = 534071 +- 250
+    y = 154975 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 938.00,	/msgTime = 938.00/
+ x = 534071 +- 250,
+ y = 154975 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983943.00 c... 
+
+TAir::GetMsg started ...                   {37}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 947.00
+    x = 40000 +- 300
+    y = 422136 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 947.00,	/msgTime = 947.00/
+ x = 40000 +- 300,
+ y = 422136 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {38}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 947.00
+    x = 215280 +- 300
+    y = 115805 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.760615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 947.00,	/msgTime = 947.00/
+ x = 215280 +- 300,
+ y = 115805 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.760615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {39}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 947.00
+    x = 642772 +- 300
+    y = -170946 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 947.00,	/msgTime = 947.00/
+ x = 642772 +- 300,
+ y = -170946 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {40}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 947.00
+    x = 532002 +- 300
+    y = 156711 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 947.00,	/msgTime = 947.00/
+ x = 532002 +- 300,
+ y = 156711 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {41}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 948.00
+    x = 40000 +- 250
+    y = 421911 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 948.00,	/msgTime = 948.00/
+ x = 40000 +- 250,
+ y = 421911 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {42}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 948.00
+    x = 215443 +- 250
+    y = 115960 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.756115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 948.00,	/msgTime = 948.00/
+ x = 215443 +- 250,
+ y = 115960 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.760615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {43}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 948.00
+    x = 642622 +- 250
+    y = -170686 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 948.00,	/msgTime = 948.00/
+ x = 642622 +- 250,
+ y = -170686 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {44}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 948.00
+    x = 531773 +- 250
+    y = 156904 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 948.00,	/msgTime = 948.00/
+ x = 531773 +- 250,
+ y = 156904 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {45}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 949.00
+    x = 40000 +- 250
+    y = 421686 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 949.00,	/msgTime = 949.00/
+ x = 40000 +- 250,
+ y = 421686 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {46}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 949.00
+    x = 215608 +- 250
+    y = 116114 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.751615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 949.00,	/msgTime = 949.00/
+ x = 215607 +- 250,
+ y = 116114 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.760615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {47}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 949.00
+    x = 642472 +- 250
+    y = -170426 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 949.00,	/msgTime = 949.00/
+ x = 642472 +- 250,
+ y = -170426 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {48}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 949.00
+    x = 531543 +- 250
+    y = 157096 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 949.00,	/msgTime = 949.00/
+ x = 531543 +- 250,
+ y = 157096 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983953.00 c... 
+
+TAir::GetMsg started ...                   {49}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 958.00
+    x = 40000 +- 300
+    y = 419661 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 958.00,	/msgTime = 958.00/
+ x = 40000 +- 300,
+ y = 419661 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {50}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 958.00
+    x = 217115 +- 300
+    y = 117466 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.711115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 958.00,	/msgTime = 958.00/
+ x = 217115 +- 300,
+ y = 117466 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.711115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {51}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 958.00
+    x = 641122 +- 300
+    y = -168088 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 958.00,	/msgTime = 958.00/
+ x = 641122 +- 300,
+ y = -168088 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {52}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 958.00
+    x = 529475 +- 300
+    y = 158832 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 958.00,	/msgTime = 958.00/
+ x = 529475 +- 300,
+ y = 158832 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {53}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 959.00
+    x = 40000 +- 250
+    y = 419436 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 959.00,	/msgTime = 959.00/
+ x = 40000 +- 250,
+ y = 419436 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {54}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 959.00
+    x = 217285 +- 250
+    y = 117612 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.706615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 959.00,	/msgTime = 959.00/
+ x = 217285 +- 250,
+ y = 117613 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.711115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {55}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 959.00
+    x = 640972 +- 250
+    y = -167828 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 959.00,	/msgTime = 959.00/
+ x = 640972 +- 250,
+ y = -167828 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {56}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 959.00
+    x = 529245 +- 250
+    y = 159025 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 959.00,	/msgTime = 959.00/
+ x = 529245 +- 250,
+ y = 159025 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {57}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 960.00
+    x = 40000 +- 250
+    y = 419211 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 960.00,	/msgTime = 960.00/
+ x = 40000 +- 250,
+ y = 419211 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {58}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 960.00
+    x = 217457 +- 250
+    y = 117758 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.702115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 960.00,	/msgTime = 960.00/
+ x = 217456 +- 250,
+ y = 117759 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.711115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {59}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 960.00
+    x = 640822 +- 250
+    y = -167568 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 960.00,	/msgTime = 960.00/
+ x = 640822 +- 250,
+ y = -167568 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {60}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 960.00
+    x = 529015 +- 250
+    y = 159218 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 960.00,	/msgTime = 960.00/
+ x = 529015 +- 250,
+ y = 159218 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983963.00 c... 
+
+TAir::GetMsg started ...                   {61}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 969.00
+    x = 40000 +- 300
+    y = 417186 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 969.00,	/msgTime = 969.00/
+ x = 40000 +- 300,
+ y = 417186 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {62}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 969.00
+    x = 219029 +- 300
+    y = 119034 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.661615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 969.00,	/msgTime = 969.00/
+ x = 219029 +- 300,
+ y = 119034 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.661615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {63}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 969.00
+    x = 639472 +- 300
+    y = -165230 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 969.00,	/msgTime = 969.00/
+ x = 639472 +- 300,
+ y = -165230 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {64}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 969.00
+    x = 526947 +- 300
+    y = 160953 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 969.00,	/msgTime = 969.00/
+ x = 526947 +- 300,
+ y = 160953 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {65}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 970.00
+    x = 40000 +- 250
+    y = 416961 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 970.00,	/msgTime = 970.00/
+ x = 40000 +- 250,
+ y = 416961 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {66}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 970.00
+    x = 219207 +- 250
+    y = 119172 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.657115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 970.00,	/msgTime = 970.00/
+ x = 219207 +- 250,
+ y = 119172 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.661615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {67}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 970.00
+    x = 639322 +- 250
+    y = -164970 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 970.00,	/msgTime = 970.00/
+ x = 639322 +- 250,
+ y = -164970 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {68}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 970.00
+    x = 526717 +- 250
+    y = 161146 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 970.00,	/msgTime = 970.00/
+ x = 526717 +- 250,
+ y = 161146 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {69}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 971.00
+    x = 40000 +- 250
+    y = 416736 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 971.00,	/msgTime = 971.00/
+ x = 40000 +- 250,
+ y = 416736 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {70}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 971.00
+    x = 219385 +- 250
+    y = 119309 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.652615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 971.00,	/msgTime = 971.00/
+ x = 219385 +- 250,
+ y = 119310 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.661615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {71}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 971.00
+    x = 639172 +- 250
+    y = -164710 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 971.00,	/msgTime = 971.00/
+ x = 639172 +- 250,
+ y = -164710 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {72}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 971.00
+    x = 526487 +- 250
+    y = 161339 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 971.00,	/msgTime = 971.00/
+ x = 526487 +- 250,
+ y = 161339 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983973.00 c... 
+
+TAir::GetMsg started ...                   {73}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 980.00
+    x = 40000 +- 300
+    y = 414711 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 980.00,	/msgTime = 980.00/
+ x = 40000 +- 300,
+ y = 414711 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {74}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 980.00
+    x = 221019 +- 300
+    y = 120506 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.612115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 980.00,	/msgTime = 980.00/
+ x = 221019 +- 300,
+ y = 120506 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.612115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {75}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 980.00
+    x = 637822 +- 300
+    y = -162372 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 980.00,	/msgTime = 980.00/
+ x = 637822 +- 300,
+ y = -162372 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {76}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 980.00
+    x = 524419 +- 300
+    y = 163074 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 980.00,	/msgTime = 980.00/
+ x = 524419 +- 300,
+ y = 163074 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {77}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 981.00
+    x = 40000 +- 250
+    y = 414486 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 981.00,	/msgTime = 981.00/
+ x = 40000 +- 250,
+ y = 414486 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {78}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 981.00
+    x = 221203 +- 250
+    y = 120635 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.607615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 981.00,	/msgTime = 981.00/
+ x = 221203 +- 250,
+ y = 120635 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.612115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {79}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 981.00
+    x = 637672 +- 250
+    y = -162112 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 981.00,	/msgTime = 981.00/
+ x = 637672 +- 250,
+ y = -162112 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {80}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 981.00
+    x = 524189 +- 250
+    y = 163267 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 981.00,	/msgTime = 981.00/
+ x = 524189 +- 250,
+ y = 163267 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {81}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 982.00
+    x = 40000 +- 250
+    y = 414261 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 982.00,	/msgTime = 982.00/
+ x = 40000 +- 250,
+ y = 414261 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {82}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 982.00
+    x = 221388 +- 250
+    y = 120763 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.603115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 982.00,	/msgTime = 982.00/
+ x = 221388 +- 250,
+ y = 120763 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.612115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {83}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 982.00
+    x = 637522 +- 250
+    y = -161852 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 982.00,	/msgTime = 982.00/
+ x = 637522 +- 250,
+ y = -161852 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {84}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 982.00
+    x = 523959 +- 250
+    y = 163460 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 982.00,	/msgTime = 982.00/
+ x = 523959 +- 250,
+ y = 163460 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983983.00 c... 
+
+TAir::GetMsg started ...                   {85}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 991.00
+    x = 40000 +- 300
+    y = 412236 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 991.00,	/msgTime = 991.00/
+ x = 40000 +- 300,
+ y = 412236 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {86}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 991.00
+    x = 223078 +- 300
+    y = 121877 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.562615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 991.00,	/msgTime = 991.00/
+ x = 223078 +- 300,
+ y = 121877 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.562615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {87}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 991.00
+    x = 636172 +- 300
+    y = -159514 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 991.00,	/msgTime = 991.00/
+ x = 636172 +- 300,
+ y = -159514 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {88}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 991.00
+    x = 521891 +- 300
+    y = 165196 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 991.00,	/msgTime = 991.00/
+ x = 521891 +- 300,
+ y = 165196 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {89}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 992.00
+    x = 40000 +- 250
+    y = 412011 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 992.00,	/msgTime = 992.00/
+ x = 40000 +- 250,
+ y = 412011 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {90}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 992.00
+    x = 223269 +- 250
+    y = 121997 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.558115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 992.00,	/msgTime = 992.00/
+ x = 223269 +- 250,
+ y = 121997 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.562615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {91}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 992.00
+    x = 636022 +- 250
+    y = -159254 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 992.00,	/msgTime = 992.00/
+ x = 636022 +- 250,
+ y = -159254 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {92}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 992.00
+    x = 521661 +- 250
+    y = 165388 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 992.00,	/msgTime = 992.00/
+ x = 521661 +- 250,
+ y = 165388 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {93}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 993.00
+    x = 40000 +- 250
+    y = 411786 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 993.00,	/msgTime = 993.00/
+ x = 40000 +- 250,
+ y = 411786 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {94}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 993.00
+    x = 223460 +- 250
+    y = 122116 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.553615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 993.00,	/msgTime = 993.00/
+ x = 223460 +- 250,
+ y = 122116 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.562615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {95}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 993.00
+    x = 635872 +- 250
+    y = -158995 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 993.00,	/msgTime = 993.00/
+ x = 635872 +- 250,
+ y = -158995 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {96}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 993.00
+    x = 521431 +- 250
+    y = 165581 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 993.00,	/msgTime = 993.00/
+ x = 521431 +- 250,
+ y = 165581 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594983993.00 c... 
+
+TAir::GetMsg started ...                   {97}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 2.00
+    x = 40000 +- 300
+    y = 409761 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 2.00,	/msgTime = 2.00/
+ x = 40000 +- 300,
+ y = 409761 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {98}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 2.00
+    x = 225204 +- 300
+    y = 123145 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.513115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 2.00,	/msgTime = 2.00/
+ x = 225204 +- 300,
+ y = 123145 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.513115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {99}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 2.00
+    x = 634522 +- 300
+    y = -156656 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 2.00,	/msgTime = 2.00/
+ x = 634522 +- 300,
+ y = -156656 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {100}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 2.00
+    x = 519363 +- 300
+    y = 167317 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 2.00,	/msgTime = 2.00/
+ x = 519363 +- 300,
+ y = 167317 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {101}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 3.00
+    x = 40000 +- 250
+    y = 409536 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 3.00,	/msgTime = 3.00/
+ x = 40000 +- 250,
+ y = 409536 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {102}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 3.00
+    x = 225400 +- 250
+    y = 123255 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.508615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 3.00,	/msgTime = 3.00/
+ x = 225400 +- 250,
+ y = 123255 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.513115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {103}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 3.00
+    x = 634372 +- 250
+    y = -156397 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 3.00,	/msgTime = 3.00/
+ x = 634372 +- 250,
+ y = -156397 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {104}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 3.00
+    x = 519133 +- 250
+    y = 167510 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 3.00,	/msgTime = 3.00/
+ x = 519133 +- 250,
+ y = 167510 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984003.00 c... 
+
+TAir::GetMsg started ...                   {105}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 4.00
+    x = 40000 +- 250
+    y = 409311 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 4.00,	/msgTime = 4.00/
+ x = 40000 +- 250,
+ y = 409311 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {106}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 4.00
+    x = 225597 +- 250
+    y = 123364 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.504115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 4.00,	/msgTime = 4.00/
+ x = 225597 +- 250,
+ y = 123365 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.513115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {107}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 4.00
+    x = 634222 +- 250
+    y = -156137 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 4.00,	/msgTime = 4.00/
+ x = 634222 +- 250,
+ y = -156137 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {108}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 4.00
+    x = 518903 +- 250
+    y = 167702 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 4.00,	/msgTime = 4.00/
+ x = 518903 +- 250,
+ y = 167702 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {109}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 13.00
+    x = 40000 +- 300
+    y = 407286 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 13.00,	/msgTime = 13.00/
+ x = 40000 +- 300,
+ y = 407286 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {110}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 13.00
+    x = 227389 +- 300
+    y = 124306 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.463615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 13.00,	/msgTime = 13.00/
+ x = 227389 +- 300,
+ y = 124306 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.463615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {111}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 13.00
+    x = 632872 +- 300
+    y = -153798 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 13.00,	/msgTime = 13.00/
+ x = 632872 +- 300,
+ y = -153798 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {112}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 13.00
+    x = 516835 +- 300
+    y = 169438 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 13.00,	/msgTime = 13.00/
+ x = 516835 +- 300,
+ y = 169438 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984013.00 c... 
+
+TAir::GetMsg started ...                   {113}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 14.00
+    x = 40000 +- 250
+    y = 407061 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 14.00,	/msgTime = 14.00/
+ x = 40000 +- 250,
+ y = 407061 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {114}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 14.00
+    x = 227591 +- 250
+    y = 124406 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.459115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 14.00,	/msgTime = 14.00/
+ x = 227591 +- 250,
+ y = 124407 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.463615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {115}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 14.00
+    x = 632722 +- 250
+    y = -153539 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 14.00,	/msgTime = 14.00/
+ x = 632722 +- 250,
+ y = -153539 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {116}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 14.00
+    x = 516605 +- 250
+    y = 169631 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 14.00,	/msgTime = 14.00/
+ x = 516605 +- 250,
+ y = 169631 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {117}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 15.00
+    x = 40000 +- 250
+    y = 406836 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 15.00,	/msgTime = 15.00/
+ x = 40000 +- 250,
+ y = 406836 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {118}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 15.00
+    x = 227793 +- 250
+    y = 124506 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.454615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 15.00,	/msgTime = 15.00/
+ x = 227792 +- 250,
+ y = 124506 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.463615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {119}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 15.00
+    x = 632572 +- 250
+    y = -153279 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 15.00,	/msgTime = 15.00/
+ x = 632572 +- 250,
+ y = -153279 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {120}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 15.00
+    x = 516375 +- 250
+    y = 169824 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 15.00,	/msgTime = 15.00/
+ x = 516375 +- 250,
+ y = 169824 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984023.00 c... 
+
+TAir::GetMsg started ...                   {121}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 24.00
+    x = 40000 +- 300
+    y = 404811 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 24.00,	/msgTime = 24.00/
+ x = 40000 +- 300,
+ y = 404811 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {122}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 24.00
+    x = 229630 +- 300
+    y = 125358 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.414115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 24.00,	/msgTime = 24.00/
+ x = 229630 +- 300,
+ y = 125358 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.414115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {123}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 24.00
+    x = 631222 +- 300
+    y = -150941 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 24.00,	/msgTime = 24.00/
+ x = 631222 +- 300,
+ y = -150941 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {124}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 24.00
+    x = 514307 +- 300
+    y = 171559 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 24.00,	/msgTime = 24.00/
+ x = 514307 +- 300,
+ y = 171559 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {125}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 25.00
+    x = 40000 +- 250
+    y = 404586 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 25.00,	/msgTime = 25.00/
+ x = 40000 +- 250,
+ y = 404586 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {126}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 25.00
+    x = 229836 +- 250
+    y = 125448 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.409615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 25.00,	/msgTime = 25.00/
+ x = 229836 +- 250,
+ y = 125448 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.414115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {127}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 25.00
+    x = 631072 +- 250
+    y = -150681 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 25.00,	/msgTime = 25.00/
+ x = 631072 +- 250,
+ y = -150681 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {128}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 25.00
+    x = 514077 +- 250
+    y = 171752 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 25.00,	/msgTime = 25.00/
+ x = 514077 +- 250,
+ y = 171752 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {129}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 26.00
+    x = 40000 +- 250
+    y = 404361 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 26.00,	/msgTime = 26.00/
+ x = 40000 +- 250,
+ y = 404361 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {130}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 26.00
+    x = 230042 +- 250
+    y = 125537 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.405115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 26.00,	/msgTime = 26.00/
+ x = 230042 +- 250,
+ y = 125538 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.414115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {131}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 26.00
+    x = 630922 +- 250
+    y = -150421 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 26.00,	/msgTime = 26.00/
+ x = 630922 +- 250,
+ y = -150421 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {132}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 26.00
+    x = 513847 +- 250
+    y = 171945 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 26.00,	/msgTime = 26.00/
+ x = 513847 +- 250,
+ y = 171945 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984033.00 c... 
+
+TAir::GetMsg started ...                   {133}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 35.00
+    x = 40000 +- 300
+    y = 402336 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 35.00,	/msgTime = 35.00/
+ x = 40000 +- 300,
+ y = 402336 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {134}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 35.00
+    x = 231919 +- 300
+    y = 126297 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.364615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 35.00,	/msgTime = 35.00/
+ x = 231919 +- 300,
+ y = 126297 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.364615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {135}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 35.00
+    x = 629572 +- 300
+    y = -148083 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 35.00,	/msgTime = 35.00/
+ x = 629572 +- 300,
+ y = -148083 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {136}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 35.00
+    x = 511779 +- 300
+    y = 173680 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 35.00,	/msgTime = 35.00/
+ x = 511779 +- 300,
+ y = 173680 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {137}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 36.00
+    x = 40000 +- 250
+    y = 402111 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 36.00,	/msgTime = 36.00/
+ x = 40000 +- 250,
+ y = 402111 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {138}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 36.00
+    x = 232129 +- 250
+    y = 126377 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.360115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 36.00,	/msgTime = 36.00/
+ x = 232129 +- 250,
+ y = 126377 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.364615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {139}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 36.00
+    x = 629422 +- 250
+    y = -147823 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 36.00,	/msgTime = 36.00/
+ x = 629422 +- 250,
+ y = -147823 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {140}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 36.00
+    x = 511549 +- 250
+    y = 173873 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 36.00,	/msgTime = 36.00/
+ x = 511549 +- 250,
+ y = 173873 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {141}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 37.00
+    x = 40000 +- 250
+    y = 401886 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 37.00,	/msgTime = 37.00/
+ x = 40000 +- 250,
+ y = 401886 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {142}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 37.00
+    x = 232340 +- 250
+    y = 126456 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.355615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 37.00,	/msgTime = 37.00/
+ x = 232340 +- 250,
+ y = 126456 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.364615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {143}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 37.00
+    x = 629272 +- 250
+    y = -147563 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 37.00,	/msgTime = 37.00/
+ x = 629272 +- 250,
+ y = -147563 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {144}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 37.00
+    x = 511319 +- 250
+    y = 174066 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 37.00,	/msgTime = 37.00/
+ x = 511319 +- 250,
+ y = 174066 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984043.00 c... 
+
+TAir::GetMsg started ...                   {145}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 46.00
+    x = 40000 +- 300
+    y = 399861 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 46.00,	/msgTime = 46.00/
+ x = 40000 +- 300,
+ y = 399861 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {146}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 46.00
+    x = 234252 +- 300
+    y = 127122 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.315115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 46.00,	/msgTime = 46.00/
+ x = 234252 +- 300,
+ y = 127122 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.315115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {147}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 46.00
+    x = 627922 +- 300
+    y = -145225 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 46.00,	/msgTime = 46.00/
+ x = 627922 +- 300,
+ y = -145225 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {148}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 46.00
+    x = 509251 +- 300
+    y = 175802 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 46.00,	/msgTime = 46.00/
+ x = 509251 +- 300,
+ y = 175802 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {149}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 47.00
+    x = 40000 +- 250
+    y = 399636 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 47.00,	/msgTime = 47.00/
+ x = 40000 +- 250,
+ y = 399636 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {150}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 47.00
+    x = 234466 +- 250
+    y = 127192 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.310615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 47.00,	/msgTime = 47.00/
+ x = 234466 +- 250,
+ y = 127192 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.315115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {151}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 47.00
+    x = 627772 +- 250
+    y = -144965 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 47.00,	/msgTime = 47.00/
+ x = 627772 +- 250,
+ y = -144965 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {152}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 47.00
+    x = 509021 +- 250
+    y = 175994 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 47.00,	/msgTime = 47.00/
+ x = 509021 +- 250,
+ y = 175994 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {153}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 48.00
+    x = 40000 +- 250
+    y = 399411 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 48.00,	/msgTime = 48.00/
+ x = 40000 +- 250,
+ y = 399411 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {154}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 48.00
+    x = 234681 +- 250
+    y = 127260 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.306115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 48.00,	/msgTime = 48.00/
+ x = 234681 +- 250,
+ y = 127260 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.315115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {155}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 48.00
+    x = 627622 +- 250
+    y = -144705 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 48.00,	/msgTime = 48.00/
+ x = 627622 +- 250,
+ y = -144705 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {156}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 48.00
+    x = 508791 +- 250
+    y = 176187 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 48.00,	/msgTime = 48.00/
+ x = 508791 +- 250,
+ y = 176187 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984053.00 c... 
+
+TAir::GetMsg started ...                   {157}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 57.00
+    x = 40000 +- 300
+    y = 397386 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 57.00,	/msgTime = 57.00/
+ x = 40000 +- 300,
+ y = 397386 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {158}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 57.00
+    x = 236623 +- 300
+    y = 127831 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.265615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 57.00,	/msgTime = 57.00/
+ x = 236623 +- 300,
+ y = 127831 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.265615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {159}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 57.00
+    x = 626272 +- 300
+    y = -142367 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 57.00,	/msgTime = 57.00/
+ x = 626272 +- 300,
+ y = -142367 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {160}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 57.00
+    x = 506723 +- 300
+    y = 177923 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 57.00,	/msgTime = 57.00/
+ x = 506723 +- 300,
+ y = 177923 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {161}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 58.00
+    x = 40000 +- 250
+    y = 397161 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 58.00,	/msgTime = 58.00/
+ x = 40000 +- 250,
+ y = 397161 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {162}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 58.00
+    x = 236841 +- 250
+    y = 127889 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.261115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 58.00,	/msgTime = 58.00/
+ x = 236841 +- 250,
+ y = 127890 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.265615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {163}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 58.00
+    x = 626122 +- 250
+    y = -142107 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 58.00,	/msgTime = 58.00/
+ x = 626122 +- 250,
+ y = -142107 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {164}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 58.00
+    x = 506493 +- 250
+    y = 178116 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 58.00,	/msgTime = 58.00/
+ x = 506493 +- 250,
+ y = 178116 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {165}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 59.00
+    x = 40000 +- 250
+    y = 396936 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 59.00,	/msgTime = 59.00/
+ x = 40000 +- 250,
+ y = 396936 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {166}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 59.00
+    x = 237058 +- 250
+    y = 127947 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.256615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 59.00,	/msgTime = 59.00/
+ x = 237058 +- 250,
+ y = 127947 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.265615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {167}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 59.00
+    x = 625972 +- 250
+    y = -141847 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 59.00,	/msgTime = 59.00/
+ x = 625972 +- 250,
+ y = -141847 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {168}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 59.00
+    x = 506263 +- 250
+    y = 178308 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 59.00,	/msgTime = 59.00/
+ x = 506263 +- 250,
+ y = 178308 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984063.00 c... 
+
+TAir::GetMsg started ...                   {169}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 68.00
+    x = 40000 +- 300
+    y = 394911 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 68.00,	/msgTime = 68.00/
+ x = 40000 +- 300,
+ y = 394911 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {170}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 68.00
+    x = 239027 +- 300
+    y = 128421 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.216115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 68.00,	/msgTime = 68.00/
+ x = 239027 +- 300,
+ y = 128421 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.216115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {171}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 68.00
+    x = 624622 +- 300
+    y = -139509 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 68.00,	/msgTime = 68.00/
+ x = 624622 +- 300,
+ y = -139509 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {172}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 68.00
+    x = 504195 +- 300
+    y = 180044 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 68.00,	/msgTime = 68.00/
+ x = 504195 +- 300,
+ y = 180044 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {173}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 69.00
+    x = 40000 +- 250
+    y = 394686 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 69.00,	/msgTime = 69.00/
+ x = 40000 +- 250,
+ y = 394686 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {174}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 69.00
+    x = 239247 +- 250
+    y = 128469 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.211615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 69.00,	/msgTime = 69.00/
+ x = 239247 +- 250,
+ y = 128469 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.216115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {175}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 69.00
+    x = 624472 +- 250
+    y = -139249 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 69.00,	/msgTime = 69.00/
+ x = 624472 +- 250,
+ y = -139249 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {176}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 69.00
+    x = 503965 +- 250
+    y = 180237 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 69.00,	/msgTime = 69.00/
+ x = 503965 +- 250,
+ y = 180237 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {177}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 70.00
+    x = 40000 +- 250
+    y = 394461 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 70.00,	/msgTime = 70.00/
+ x = 40000 +- 250,
+ y = 394461 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {178}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 70.00
+    x = 239467 +- 250
+    y = 128516 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.207115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 70.00,	/msgTime = 70.00/
+ x = 239467 +- 250,
+ y = 128516 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.216115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {179}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 70.00
+    x = 624322 +- 250
+    y = -138989 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 70.00,	/msgTime = 70.00/
+ x = 624322 +- 250,
+ y = -138989 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {180}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 70.00
+    x = 503735 +- 250
+    y = 180430 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 70.00,	/msgTime = 70.00/
+ x = 503736 +- 250,
+ y = 180430 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984073.00 c... 
+
+TAir::GetMsg started ...                   {181}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 79.00
+    x = 40000 +- 300
+    y = 392436 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 79.00,	/msgTime = 79.00/
+ x = 40000 +- 300,
+ y = 392436 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {182}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 79.00
+    x = 241456 +- 300
+    y = 128892 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.166615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 79.00,	/msgTime = 79.00/
+ x = 241456 +- 300,
+ y = 128892 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.166615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {183}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 79.00
+    x = 622972 +- 300
+    y = -136651 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 79.00,	/msgTime = 79.00/
+ x = 622972 +- 300,
+ y = -136651 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {184}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 79.00
+    x = 501667 +- 300
+    y = 182165 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 79.00,	/msgTime = 79.00/
+ x = 501667 +- 300,
+ y = 182165 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {185}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 80.00
+    x = 40000 +- 250
+    y = 392211 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 80.00,	/msgTime = 80.00/
+ x = 40000 +- 250,
+ y = 392211 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {186}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 80.00
+    x = 241678 +- 250
+    y = 128929 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.162115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 80.00,	/msgTime = 80.00/
+ x = 241678 +- 250,
+ y = 128929 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.166615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {187}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 80.00
+    x = 622822 +- 250
+    y = -136391 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 80.00,	/msgTime = 80.00/
+ x = 622822 +- 250,
+ y = -136391 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {188}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 80.00
+    x = 501437 +- 250
+    y = 182358 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 80.00,	/msgTime = 80.00/
+ x = 501437 +- 250,
+ y = 182358 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {189}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 81.00
+    x = 40000 +- 250
+    y = 391986 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 81.00,	/msgTime = 81.00/
+ x = 40000 +- 250,
+ y = 391986 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {190}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 81.00
+    x = 241900 +- 250
+    y = 128964 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.157615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 81.00,	/msgTime = 81.00/
+ x = 241900 +- 250,
+ y = 128965 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.166615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {191}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 81.00
+    x = 622672 +- 250
+    y = -136132 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 81.00,	/msgTime = 81.00/
+ x = 622672 +- 250,
+ y = -136132 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {192}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 81.00
+    x = 501208 +- 250
+    y = 182551 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 81.00,	/msgTime = 81.00/
+ x = 501208 +- 250,
+ y = 182551 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984083.00 c... 
+
+TAir::GetMsg started ...                   {193}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 90.00
+    x = 40000 +- 300
+    y = 389961 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 90.00,	/msgTime = 90.00/
+ x = 40000 +- 300,
+ y = 389961 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {194}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 90.00
+    x = 243906 +- 300
+    y = 129242 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.117115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 90.00,	/msgTime = 90.00/
+ x = 243906 +- 300,
+ y = 129242 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.117115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {195}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 90.00
+    x = 621322 +- 300
+    y = -133793 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 90.00,	/msgTime = 90.00/
+ x = 621322 +- 300,
+ y = -133793 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {196}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 90.00
+    x = 499139 +- 300
+    y = 184286 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 90.00,	/msgTime = 90.00/
+ x = 499139 +- 300,
+ y = 184286 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {197}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 91.00
+    x = 40000 +- 250
+    y = 389736 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 91.00,	/msgTime = 91.00/
+ x = 40000 +- 250,
+ y = 389736 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {198}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 91.00
+    x = 244130 +- 250
+    y = 129268 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.112615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 91.00,	/msgTime = 91.00/
+ x = 244130 +- 250,
+ y = 129268 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.117115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {199}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 91.00
+    x = 621172 +- 250
+    y = -133534 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 91.00,	/msgTime = 91.00/
+ x = 621172 +- 250,
+ y = -133534 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {200}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 91.00
+    x = 498909 +- 250
+    y = 184479 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 91.00,	/msgTime = 91.00/
+ x = 498909 +- 250,
+ y = 184479 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {201}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 92.00
+    x = 40000 +- 250
+    y = 389511 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 92.00,	/msgTime = 92.00/
+ x = 40000 +- 250,
+ y = 389511 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {202}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 92.00
+    x = 244353 +- 250
+    y = 129292 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.108115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 92.00,	/msgTime = 92.00/
+ x = 244353 +- 250,
+ y = 129293 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.117115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {203}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 92.00
+    x = 621022 +- 250
+    y = -133274 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 92.00,	/msgTime = 92.00/
+ x = 621022 +- 250,
+ y = -133274 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {204}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 92.00
+    x = 498680 +- 250
+    y = 184672 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 92.00,	/msgTime = 92.00/
+ x = 498680 +- 250,
+ y = 184672 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984093.00 c... 
+
+TAir::GetMsg started ...                   {205}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 101.00
+    x = 40000 +- 300
+    y = 387486 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 101.00,	/msgTime = 101.00/
+ x = 40000 +- 300,
+ y = 387486 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {206}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 101.00
+    x = 246370 +- 300
+    y = 129470 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.067615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 101.00,	/msgTime = 101.00/
+ x = 246370 +- 300,
+ y = 129470 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.067615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {207}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 101.00
+    x = 619672 +- 300
+    y = -130935 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 101.00,	/msgTime = 101.00/
+ x = 619672 +- 300,
+ y = -130935 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {208}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 101.00
+    x = 496611 +- 300
+    y = 186408 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 101.00,	/msgTime = 101.00/
+ x = 496611 +- 300,
+ y = 186408 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {209}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 102.00
+    x = 40000 +- 250
+    y = 387261 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 102.00,	/msgTime = 102.00/
+ x = 40000 +- 250,
+ y = 387261 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {210}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 102.00
+    x = 246595 +- 250
+    y = 129485 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.063115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 102.00,	/msgTime = 102.00/
+ x = 246595 +- 250,
+ y = 129485 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.067615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {211}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 102.00
+    x = 619522 +- 250
+    y = -130676 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 102.00,	/msgTime = 102.00/
+ x = 619522 +- 250,
+ y = -130676 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {212}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 102.00
+    x = 496381 +- 250
+    y = 186600 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 102.00,	/msgTime = 102.00/
+ x = 496381 +- 250,
+ y = 186600 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {213}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 103.00
+    x = 40000 +- 250
+    y = 387036 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 103.00,	/msgTime = 103.00/
+ x = 40000 +- 250,
+ y = 387036 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {214}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 103.00
+    x = 246819 +- 250
+    y = 129498 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.058615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 103.00,	/msgTime = 103.00/
+ x = 246819 +- 250,
+ y = 129499 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.067615
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {215}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 103.00
+    x = 619372 +- 250
+    y = -130416 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 103.00,	/msgTime = 103.00/
+ x = 619372 +- 250,
+ y = -130416 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {216}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 103.00
+    x = 496152 +- 250
+    y = 186793 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 103.00,	/msgTime = 103.00/
+ x = 496152 +- 250,
+ y = 186793 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984103.00 c... 
+
+TAir::GetMsg started ...                   {217}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 112.00
+    x = 40000 +- 300
+    y = 385011 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 112.00,	/msgTime = 112.00/
+ x = 40000 +- 300,
+ y = 385011 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {218}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 112.00
+    x = 248843 +- 300
+    y = 129576 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 0.018115
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 112.00,	/msgTime = 112.00/
+ x = 248843 +- 300,
+ y = 129576 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 0.018115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {219}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 112.00
+    x = 618022 +- 300
+    y = -128078 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 112.00,	/msgTime = 112.00/
+ x = 618022 +- 300,
+ y = -128078 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {220}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 112.00
+    x = 494083 +- 300
+    y = 188529 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 112.00,	/msgTime = 112.00/
+ x = 494083 +- 300,
+ y = 188529 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {221}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 113.00
+    x = 40000 +- 250
+    y = 384786 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 113.00,	/msgTime = 113.00/
+ x = 40000 +- 250,
+ y = 384786 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {222}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 113.00
+    x = 249068 +- 250
+    y = 129580 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.013615
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 113.00,	/msgTime = 113.00/
+ x = 249068 +- 250,
+ y = 129580 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.018115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {223}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 113.00
+    x = 617872 +- 250
+    y = -127818 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 113.00,	/msgTime = 113.00/
+ x = 617872 +- 250,
+ y = -127818 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {224}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 113.00
+    x = 493854 +- 250
+    y = 188722 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 113.00,	/msgTime = 113.00/
+ x = 493854 +- 250,
+ y = 188722 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984113.00 c... 
+
+TAir::GetMsg started ...                   {225}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 114.00
+    x = 40000 +- 250
+    y = 384561 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 114.00,	/msgTime = 114.00/
+ x = 40000 +- 250,
+ y = 384561 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {226}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 114.00
+    x = 249293 +- 250
+    y = 129582 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 0.00911502
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 114.00,	/msgTime = 114.00/
+ x = 249293 +- 250,
+ y = 129583 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 0.018115
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {227}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 114.00
+    x = 617722 +- 250
+    y = -127558 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 114.00,	/msgTime = 114.00/
+ x = 617722 +- 250,
+ y = -127558 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {228}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 114.00
+    x = 493624 +- 250
+    y = 188914 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 114.00,	/msgTime = 114.00/
+ x = 493624 +- 250,
+ y = 188914 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {229}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 123.00
+    x = 40000 +- 300
+    y = 382536 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 123.00,	/msgTime = 123.00/
+ x = 40000 +- 300,
+ y = 382536 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {230}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 123.00
+    x = 251318 +- 300
+    y = 129560 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = -0.031385
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 123.00,	/msgTime = 123.00/
+ x = 251318 +- 300,
+ y = 129560 +- 300,
+ h = 10000,
+ v = 225,
+ psi = -0.031385
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {231}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 123.00
+    x = 616372 +- 300
+    y = -125220 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 123.00,	/msgTime = 123.00/
+ x = 616372 +- 300,
+ y = -125220 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {232}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 123.00
+    x = 491555 +- 300
+    y = 190650 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 123.00,	/msgTime = 123.00/
+ x = 491555 +- 300,
+ y = 190650 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984123.00 c... 
+
+TAir::GetMsg started ...                   {233}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 1
+    trcState = 2
+    t = 124.00
+    x = 40000 +- 250
+    y = 382311 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 124.00,	/msgTime = 124.00/
+ x = 40000 +- 250,
+ y = 382311 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {234}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 2
+    trcState = 2
+    t = 124.00
+    x = 251542 +- 250
+    y = 129552 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = -0.035885
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 124.00,	/msgTime = 124.00/
+ x = 251542 +- 250,
+ y = 129552 +- 250,
+ h = 10000,
+ v = 225,
+ psi = -0.031385
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {235}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 3
+    trcState = 2
+    t = 124.00
+    x = 616222 +- 250
+    y = -124960 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 124.00,	/msgTime = 124.00/
+ x = 616222 +- 250,
+ y = -124960 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {236}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 2
+    trcNum = 4
+    trcState = 2
+    t = 124.00
+    x = 491326 +- 250
+    y = 190843 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 124.00,	/msgTime = 124.00/
+ x = 491326 +- 250,
+ y = 190843 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {237}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 1
+    trcState = 2
+    t = 125.00
+    x = 40000 +- 250
+    y = 382086 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 125.00,	/msgTime = 125.00/
+ x = 40000 +- 250,
+ y = 382086 +- 250,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {238}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 2
+    trcState = 2
+    t = 125.00
+    x = 251767 +- 250
+    y = 129543 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 225
+    psi = -0.040385
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 125.00,	/msgTime = 125.00/
+ x = 251767 +- 250,
+ y = 129544 +- 250,
+ h = 10000,
+ v = 225,
+ psi = -0.031385
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {239}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 3
+    trcState = 2
+    t = 125.00
+    x = 616072 +- 250
+    y = -124700 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 125.00,	/msgTime = 125.00/
+ x = 616072 +- 250,
+ y = -124700 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {240}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 3
+    trcNum = 4
+    trcState = 2
+    t = 125.00
+    x = 491096 +- 250
+    y = 191036 +- 250
+    h = 10000 +- 250
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 125.00,	/msgTime = 125.00/
+ x = 491096 +- 250,
+ y = 191036 +- 250,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::TrcStateCheck started at 1594984133.00 c... 
+
+TAir::GetMsg started ...                   {241}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 1
+    trcState = 2
+    t = 134.00
+    x = 40000 +- 300
+    y = 380061 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = 4.71239
+    GARANT SVOY	   N`?		1
+    53 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 1: 1-1 2-1 3-1,
+ t = 134.00,	/msgTime = 134.00/
+ x = 40000 +- 300,
+ y = 380061 +- 300,
+ h = 10000,
+ v = 225,
+ psi = 4.71239
+ GARANT SVOY	 N`?	    1
+ 53 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {242}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 2
+    trcState = 2
+    t = 134.00
+    x = 253788 +- 300
+    y = 129421 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 225
+    psi = -0.080885
+    GARANT SVOY	   N`?		1
+    17 type of air
+    index = 6
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 2: 1-2 2-2 3-2,
+ t = 134.00,	/msgTime = 134.00/
+ x = 253788 +- 300,
+ y = 129421 +- 300,
+ h = 10000,
+ v = 225,
+ psi = -0.080885
+ GARANT SVOY	 N`?	    1
+ 17 type of air
+ index = 6.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {243}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 3
+    trcState = 2
+    t = 134.00
+    x = 614722 +- 300
+    y = -122362 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.0944
+    CHUGOY	   N`?		1
+    14 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 3: 1-3 2-3 3-3,
+ t = 134.00,	/msgTime = 134.00/
+ x = 614722 +- 300,
+ y = -122362 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.0944
+ CHUGOY	 N`?	    1
+ 14 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+TAir::GetMsg started ...                   {244}
+ ------------ Received -------------
+ TAir:: pMsg->
+    sensNum = 1
+    trcNum = 4
+    trcState = 2
+    t = 134.00
+    x = 489027 +- 300
+    y = 192771 +- 300
+    h = 10000 +- 300
+    hBar = 0
+    v = 300
+    psi = 2.44346
+    CHUGOY	   N`?		1
+    51 type of air
+    index = 3
+    hBar is extrapolated
+ ----------------------------------------- 
+
+TAir::GeneralizedTrack is updated:
+ ---------------Out-----------------
+ genTrcNum = 4: 1-4 2-4 3-4,
+ t = 134.00,	/msgTime = 134.00/
+ x = 489027 +- 300,
+ y = 192771 +- 300,
+ h = 10000,
+ v = 300,
+ psi = 2.44346
+ CHUGOY	 N`?	    1
+ 51 type of air
+ index = 3.
+ - - - - - - - - - - - - - - - - - - - -
+
+=====================================================
+End of the run results.

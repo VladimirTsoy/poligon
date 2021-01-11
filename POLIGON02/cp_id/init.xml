@@ -1,0 +1,29 @@
+<init>
+	<char_sens_variant_full_dir_path>../input_files/xml/char_sens</char_sens_variant_full_dir_path>
+	<char_sens_xsd_full_dir_path>../input_files/xsd</char_sens_xsd_full_dir_path>
+	<char_sens_xsl_full_dir_path>../input_files/xsl</char_sens_xsl_full_dir_path>
+	<char_sens_html_full_dir_path>../output_files/char_sens</char_sens_html_full_dir_path>
+	<char_sens_variant_file_name>1</char_sens_variant_file_name>
+	<char_sens_xsd_xsl_file_name>char_sens</char_sens_xsd_xsl_file_name>
+	
+	<sens_site_variant_full_dir_path>../input_files/xml/sens_site</sens_site_variant_full_dir_path>
+	<sens_site_xsd_full_dir_path>../input_files/xsd</sens_site_xsd_full_dir_path>
+	<sens_site_xsl_full_dir_path>../input_files/xsl</sens_site_xsl_full_dir_path>
+	<sens_site_html_full_dir_path>../output_files/sens_site</sens_site_html_full_dir_path>
+	<sens_site_variant_file_name>1</sens_site_variant_file_name>
+	<sens_site_xsd_xsl_file_name>sens_site</sens_site_xsd_xsl_file_name>
+	
+	<etalon_variant_full_dir_path>../input_files/xml/object_contr</etalon_variant_full_dir_path>
+	<etalon_xsd_full_dir_path>../input_files/xsd</etalon_xsd_full_dir_path>
+	<etalon_xsl_full_dir_path>../input_files/xsl</etalon_xsl_full_dir_path>
+	<etalon_html_full_dir_path>../output_files/object_contr</etalon_html_full_dir_path>
+	<etalon_variant_file_name>1</etalon_variant_file_name>
+	<etalon_xsd_xsl_file_name>object_contr</etalon_xsd_xsl_file_name>
+
+	<zone_variant_full_dir_path>../input_files/xml/zone</zone_variant_full_dir_path>
+	<zone_xsd_full_dir_path>../input_files/xsd</zone_xsd_full_dir_path>
+	<zone_xsl_full_dir_path>../input_files/xsl</zone_xsl_full_dir_path>
+	<zone_html_full_dir_path>../output_files/zone</zone_html_full_dir_path>
+	<zone_variant_file_name>1</zone_variant_file_name>
+	<zone_xsd_xsl_file_name>zone</zone_xsd_xsl_file_name>
+</init>

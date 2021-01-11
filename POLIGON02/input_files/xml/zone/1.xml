@@ -1,0 +1,45 @@
+<!---->
+<zones>
+	<zone number = '1'>
+		<r>255</r>
+		<g>0</g>
+		<b>0</b>
+		<a>50</a>
+		<point number = '1'>
+			<x>206762</x>
+			<y>138931</y>
+		</point>
+		<point number = '2'>
+			<x>-33796</x>
+			<y>-190722</y>
+		</point>
+		<point number = '3'>
+			<x>30508</x>
+			<y>-230621</y>
+		</point>
+		<point number = '4'>
+			<x>277651</x>
+			<y>94771</y>
+		</point>
+		<point number = '5'>
+			<x>414974</x>
+			<y>246233</y>
+		</point>
+		<point number = '6'>
+			<x>622218</x>
+			<y>392466</y>
+		</point>
+		<point number = '7'>
+			<x>477922</x>
+			<y>462193</y>
+		</point>
+		<point number = '8'>
+			<x>352026</x>
+			<y>376002</y>
+		</point>
+		<point number = '9'>
+			<x>208699</x>
+			<y>137769</y>
+		</point>
+	</zone>
+</zones>

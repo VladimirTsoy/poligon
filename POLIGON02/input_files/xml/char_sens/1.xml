@@ -1,0 +1,37 @@
+<!---->
+<TCharSens>
+	<CharSens number = '1'>
+		<hMax>40000.0</hMax>
+		<hMin>5</hMin>
+		<maxCountTrc>500</maxCountTrc>
+		<rMax>600000</rMax>
+		<rMin>100</rMin>
+		<trustXY>300</trustXY>
+		<trustH>300</trustH>
+	</CharSens>
+	<CharSens number = '2'>
+		<hMax>40000.0</hMax>
+		<hMin>5</hMin>
+		<maxCountTrc>400</maxCountTrc>
+		<rMax>400000</rMax>
+		<rMin>100</rMin>
+		<trustXY>250</trustXY>
+		<trustH>250</trustH>
+	</CharSens>
+	<CharSens number = '3'>
+		<hMax>36000.0</hMax>
+		<maxCountTrc>100</maxCountTrc>
+		<rMax>350000</rMax>
+		<rMin>100</rMin>
+		<trustXY>1800</trustXY>
+		<trustH>1800</trustH>
+	</CharSens>
+	<CharSens number = '4'>
+		<hMax>36000.0</hMax>
+		<maxCountTrc>100</maxCountTrc>
+		<rMax>350000</rMax>
+		<rMin>100</rMin>
+		<trustXY>150</trustXY>
+		<trustH>150</trustH>
+	</CharSens>
+</TCharSens>

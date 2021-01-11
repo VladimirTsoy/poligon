@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+
+  <!-- Зисточники информации -->
+<TSensSite>
+        <SensSite number = "1">     <!--45л6-1-->
+                 <x>10.0</x>
+                 <y>10.0</y>
+                 <sensChar>1</sensChar>
+	</SensSite>
+        <SensSite number = "2">      <!--99Ш6(М)-->
+                 <x>10.0</x>
+                 <y>10.0</y>
+                 <sensChar>2</sensChar>
+           </SensSite>
+           <SensSite number = "3">    <!--99Ш6(М)-->
+                    <x>355000.0</x>
+                    <y>1300000.0</y>
+                    <sensChar>2</sensChar>
+              </SensSite>
+           <SensSite number = "4">            <!--алеврит-->
+                    <x>177000.0</x>
+                    <y>222000.0</y>
+                    <sensChar>3</sensChar>
+           </SensSite>
+    </TSensSite>

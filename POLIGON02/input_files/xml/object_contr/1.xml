@@ -1,0 +1,136 @@
+<!---->
+<TObjectContr>
+	<ObjectContr number = '1'>
+		<ObjClass>1</ObjClass>
+		<TO>53</TO>
+		<IO>6</IO>
+		<OGP>3</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>40000</x>
+		<y>430000</y>
+		<h>10000</h>
+		<psi>4.71239</psi>
+		<v>225</v>
+		<vh>0</vh>
+	</ObjectContr>
+	<ObjectContr number = '2'>
+		<ObjClass>1</ObjClass>
+		<TO>17</TO>
+		<IO>6</IO>
+		<OGP>3</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>210000</x>
+		<y>110000</y>
+		<h>10000</h>
+		<psi>0.872665</psi>
+		<v>225</v>
+		<vh>0</vh>
+		<Manevr number = '1'>
+			<tStart>10</tStart>
+			<tFinish>1000</tFinish>
+			<a>0</a>
+			<vh>0</vh>
+			<r>-50000</r>
+		</Manevr>
+	</ObjectContr>
+	<ObjectContr number = '3'>
+		<ObjClass>1</ObjClass>
+		<TO>14</TO>
+		<IO>3</IO>
+		<OGP>1</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>648000</x>
+		<y>-180000</y>
+		<h>10000</h>
+		<psi>2.0944</psi>
+		<v>300</v>
+		<vh>0</vh>
+		<Manevr number = '1'>
+			<tStart>460</tStart>
+			<tFinish>504</tFinish>
+			<a>0</a>
+			<vh>0</vh>
+			<r>5000</r>
+		</Manevr>
+	</ObjectContr>
+	<ObjectContr number = '4'>
+		<ObjClass>1</ObjClass>
+		<TO>51</TO>
+		<IO>3</IO>
+		<OGP>1</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>540000</x>
+		<y>150000</y>
+		<h>10000</h>
+		<psi>2.44346</psi>
+		<v>300</v>
+		<vh>0</vh>
+		<Manevr number = '1'>
+			<tStart>540</tStart>
+			<tFinish>584</tFinish>
+			<a>0</a>
+			<vh>0</vh>
+			<r>5000</r>
+		</Manevr>
+	</ObjectContr>
+	<ObjectContr number = '5'>
+		<ObjClass>2</ObjClass>
+		<TO>12</TO>
+		<IO>6</IO>
+		<OGP>3</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>435000</x>
+		<y>270000</y>
+		<h>0</h>
+		<psi>5.84685</psi>
+		<v>16</v>
+		<vh>0</vh>
+	</ObjectContr>
+	<ObjectContr number = '6'>
+		<ObjClass>2</ObjClass>
+		<TO>11</TO>
+		<IO>6</IO>
+		<OGP>3</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>345000</x>
+		<y>160000</y>
+		<h>0</h>
+		<psi>2.35619</psi>
+		<v>16</v>
+		<vh>0</vh>
+	</ObjectContr>
+	<ObjectContr number = '7'>
+		<ObjClass>3</ObjClass>
+		<TO>3</TO>
+		<IO>6</IO>
+		<OGP>3</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>505000</x>
+		<y>390000</y>
+		<h>0</h>
+		<psi>0.523599</psi>
+		<v>10</v>
+		<vh>0</vh>
+	</ObjectContr>
+	<ObjectContr number = '8'>
+		<ObjClass>3</ObjClass>
+		<TO>3</TO>
+		<IO>6</IO>
+		<OGP>3</OGP>
+		<tStart>0</tStart>
+		<tFinish>1000</tFinish>
+		<x>220000</x>
+		<y>300000</y>
+		<h>0</h>
+		<psi>0</psi>
+		<v>10</v>
+		<vh>0</vh>
+	</ObjectContr>
+</TObjectContr>

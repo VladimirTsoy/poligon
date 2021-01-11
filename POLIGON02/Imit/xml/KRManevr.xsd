@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="TKRManevr" type="TKRManevr_type" />
+
+	<xsd:complexType name="TKRManevr_type">
+		<xsd:sequence>
+			<xsd:element name="KRManevr" type="KRManevr_type" minOccurs="1" maxOccurs="1000" />
+		</xsd:sequence>
+	</xsd:complexType>
+  
+	<xsd:complexType name="KRManevr_type">
+		<xsd:sequence>
+			<xsd:element name="countManevr" type="countManevr_type" />
+			<xsd:group ref="Manevr_group" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:group name="Manevr_group">
+		<xsd:sequence>
+			<xsd:element name="Manevr" type="Manevr_type" minOccurs="1" maxOccurs="10" />
+		</xsd:sequence>
+	</xsd:group>
+
+	<xsd:complexType name="Manevr_type">
+		<xsd:sequence>
+			<xsd:element name="tStart" type="tStart_type" />
+			<xsd:element name="tFinish" type="tFinish_type" />
+			<xsd:element name="a" type="a_type" />
+			<xsd:element name="vh" type="vh_type" />
+			<xsd:element name="r" type="r_type" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:simpleType name="number_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="1000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="countManevr_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="tStart_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="tFinish_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="a_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+		<xsd:simpleType name="vh_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="r_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

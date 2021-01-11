@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="TPozRegion" type="TPozRegion_type" />
+
+	<xsd:complexType name="TPozRegion_type">
+		<xsd:sequence>
+			<xsd:element name="PozRegion" type="PozRegion_type" minOccurs="1" maxOccurs="100" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="PozRegion_type">
+		<xsd:sequence>
+			<xsd:element name="x" type="x_type" />
+			<xsd:element name="y" type="y_type" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:simpleType name="number_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="100"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="x_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="y_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

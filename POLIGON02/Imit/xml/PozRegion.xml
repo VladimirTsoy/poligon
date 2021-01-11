@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+  <!-- позиционный район -->
+<TPozRegion>
+        <PozRegion number = "1">
+               <x>-308000.0</x>
+               <y>-452000.0</y>
+        </PozRegion>
+       <!-- <PozRegion number = "2">
+               <x>200000.0</x>
+               <y>200000.0</y>
+        </PozRegion>
+        <PozRegion number = "3">
+               <x>-200000.0</x>
+               <y>-200000.0</y>
+        </PozRegion>-->
+</TPozRegion>

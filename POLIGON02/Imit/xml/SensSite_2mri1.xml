@@ -1,0 +1,22 @@
+﻿<?xml version = "2.0"?>
+
+  <!-- Зисточники информации -->
+<TSensSite>
+	<SensSite number = "1">
+                <x>1.0</x>
+                <y>1.0</y>
+                <sensChar>1</sensChar>
+	</SensSite>
+        <SensSite number = "7">
+                <x>50000.0</x>
+                <y>10.0</y>
+                <azimut>4.7124</azimut>
+                <sensChar>2</sensChar>
+         </SensSite>
+                <SensSite number = "8">
+                <x>-50000.0</x>
+                <y>-55000.0</y>
+                <azimut>4.7124</azimut>
+                <sensChar>2</sensChar>
+        </SensSite>
+</TSensSite>

@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+<!-- 29.03.17 КЗ 3  2 БЦ + 7 СА высота 4 км по 5 КР с 1 маневр на понижение высоты до 200 -->
+<TObjectContr>
+     <ObjectContr number = "1">
+                <tStart>1.0</tStart>
+                <tFinish>3040.0</tFinish>
+                <x>2120000.0</x>
+                <y>10.0</y>
+                <h>10000.0</h>
+                <psi>3.1416</psi>
+                <v>6000.0</v>
+                <vh>2425.49</vh>
+		<countManevr>0</countManevr>
+                <OGP>1</OGP>
+                <IVO>3</IVO>     <!--ВП-->
+                <TVO>11</TVO>   <!--KP-->
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+                <trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+      </ObjectContr>
+  </TObjectContr>
+
+
+

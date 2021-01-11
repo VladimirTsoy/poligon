@@ -1,0 +1,72 @@
+<?xml version = "1.0"?>
+<!-- «зона эталонов контрольных задач БЦ- размножение на последнем участке -->
+<TObjectContr>
+	<ObjectContr number = "1">
+		<tStart>1.0</tStart>
+		<tFinish>1130.0</tFinish>
+		<x>5000.0</x>
+		<y>5000.0</y>
+		<h>31500.0</h>
+		<psi>0.49778714378</psi>
+		<v>1844.0</v>
+		<vh>0</vh>
+		<countManevr>7</countManevr>
+		<OGP>1</OGP>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>2</trsChar>
+		<trackImit>1</trackImit>
+		<Manevr number = "1">
+			<tStart>1.1</tStart>
+			<tFinish>45.1</tFinish>
+			<a>0.0</a>
+			<vh>-240.0</vh>
+			<r>0.0</r>
+		</Manevr>
+		<Manevr number = "2">
+			<tStart>45.1</tStart>
+			<tFinish>80.1</tFinish>
+			<a>-3.8</a>
+			<vh>640.0</vh>
+			<r>0.0</r>
+		</Manevr>
+		<Manevr number = "3">
+			<tStart>80.1</tStart>
+			<tFinish>150.1</tFinish>
+			<a>-2.1</a>
+			<vh>390.0</vh>
+			<r>0.0</r>
+		</Manevr>
+		<Manevr number = "4">
+			<tStart>170.1</tStart>
+			<tFinish>250.1</tFinish>
+			<a>3.1</a>
+			<vh>-515.0</vh>
+			<r>0.0</r>
+		</Manevr>
+		<Manevr number = "5">
+			<tStart>250.1</tStart>
+			<tFinish>270.1</tFinish>
+			<a>0.0</a>
+			<vh>-600.0</vh>
+			<r>0.0</r>
+		</Manevr>
+		<Manevr number = "6">
+			<tStart>270.1</tStart>
+			<tFinish>310.1</tFinish>
+			<a>0.0</a>
+			<vh>400.0</vh>
+			<r>0.0</r>
+		</Manevr>
+		<Manevr number = "7">
+			<tStart>310.1</tStart>
+			<tFinish>380.1</tFinish>
+			<a>0.0</a>
+			<vh>-700.0</vh>
+			<r>52012.0</r>
+		</Manevr>
+	</ObjectContr>
+</TObjectContr>
+
+
+

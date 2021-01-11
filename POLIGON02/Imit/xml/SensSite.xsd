@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="TSensSite" type="TSensSite_type" />
+
+	<xsd:complexType name="TSensSite_type">
+		<xsd:sequence>
+			<xsd:element name="SensSite" type="SensSite_type" minOccurs="1" maxOccurs="1000" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="SensSite_type">
+		<xsd:sequence>
+			<xsd:element name="x" type="x_type" />
+			<xsd:element name="y" type="y_type" />
+			<xsd:element name="azimut" type="azimut_type" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="sensChar" type="sensChar_type" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:simpleType name="number_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="46"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="x_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="y_type">
+		<xsd:restriction base="xsd:float">
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="azimut_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="0.0"/>
+			<xsd:maxInclusive value="6.29"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="sensChar_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="46"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

@@ -1,0 +1,20 @@
+﻿<?xml version = "2.0"?>
+
+  <!-- Зисточники информации премьер -->
+<TSensSite>
+	<SensSite number = "1">
+                <x>150000.0</x>
+                <y>55000.0</y>
+                <sensChar>1</sensChar>
+	</SensSite>
+        <SensSite number = "7">
+                 <x>1000.0</x>
+                 <y>-100000.0</y>
+                 <sensChar>3</sensChar>
+           </SensSite>
+                <SensSite number = "8">
+                <x>-150000.0</x>
+                <y>55000.0</y>
+                <sensChar>1</sensChar>
+        </SensSite>
+</TSensSite>

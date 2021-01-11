@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fileIvoTvo.xml</file>
+        <file>fileIvo.xml</file>
+        <file>fileTvo.xml</file>
+    </qresource>
+</RCC>

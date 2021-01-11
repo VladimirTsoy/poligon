@@ -1,0 +1,32 @@
+﻿<!-- Зисточники информации -->
+
+<!--З•арактетистики €€ по типу [TOI]-->
+<TCharSens>
+	<CharSens number = "1">
+                <hMax>100000.0</hMax>
+		<maxCountTrc>200</maxCountTrc>
+                <rMax>290000</rMax>
+                <rMin>0</rMin>
+                <trustXY>250</trustXY>
+                <trustH>250</trustH>
+	</CharSens>
+	<CharSens number = "2">
+		<hMax>600000</hMax>
+                <maxCountTrc>40</maxCountTrc>
+                <rMax>3600000</rMax>
+                <rMin>0</rMin>
+                <azimutMax>0.8727</azimutMax>
+                <azimutMin>-0.8727</azimutMin>
+                <trustXY>500</trustXY>
+                <trustH>500</trustH>
+	</CharSens>
+        <CharSens number = "3">
+                <hMax>100000.0</hMax>
+                <maxCountTrc>200</maxCountTrc>
+                <rMax>890000.0</rMax>
+                <rMin>0</rMin>
+                <trustXY>250</trustXY>
+                <trustH>250</trustH>
+        </CharSens>
+</TCharSens>
+		

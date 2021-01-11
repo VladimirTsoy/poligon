@@ -1,0 +1,16 @@
+: Mon Dec 28 16:15:01.385 2020 Logger БЕЗУСЛОВНОЕ     Журнал открыт: DDS_parser.log
+: Запущен прекомпилятор RDDS
+: Файл объектной модели: /home/user/qt/Poligon/POLIGON02/RDDS_TGenMsg/import/xml/Message.xml
+: Путь к каталогу с сгенерированными файлами: /home/user/qt/Poligon/POLIGON02/../import
+: Имя файла журнала: DDS_parser.log
+: Компилируется проект Message
+: Для объектной модели: Message
+: Сгенерированы следующие файлы: 
+: /home/user/qt/Poligon/POLIGON02/../import/Message_DDS/include/Message_DCPS.hpp  - главный подключаемый файл для пользовательских типов
+: /home/user/qt/Poligon/POLIGON02/../import/Message_DDS/include/Message.h - описание пользовательских типов данных
+: /home/user/qt/Poligon/POLIGON02/../import/Message_DDS/src/Message.cpp -  определения методов пользовательских типов данных
+: /home/user/qt/Poligon/POLIGON02/../import/Message_DDS/include/Message_DCPS.h  - реализация всех стандартных методов DDS для топиков
+: /home/user/qt/Poligon/POLIGON02/../import/Message_DDS/include/Message_DCPS_Pack.h  - описание функций и методов распаковки и упаковки данных пользователя
+: /home/user/qt/Poligon/POLIGON02/../import/Message_DDS/src/Message_DCPS_Pack.cpp  - определения функций и методов распаковки и упаковки данных пользователя
+: Компилирование закончено
+: Mon Dec 28 16:15:01.418 2020 Logger БЕЗУСЛОВНОЕ     Журнал закрыт

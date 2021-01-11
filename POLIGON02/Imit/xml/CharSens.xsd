@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="TCharSens" type="TCharSens_type" />
+
+	<xsd:complexType name="TCharSens_type">
+		<xsd:sequence>
+			<xsd:element name="CharSens" type="CharSens_type" minOccurs="1" maxOccurs="1000" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="CharSens_type">
+		<xsd:sequence>
+			<xsd:element name="hMax" type="hMax_type" />
+			<xsd:element name="maxCountTrc" type="maxCountTrc_type" />
+			<xsd:element name="rMax" type="rMax_type" />
+			<xsd:element name="rMin" type="rMin_type" />
+			<xsd:element name="azimutMax" type="azimutMax_type" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="azimutMin" type="azimutMin_type" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="trustXY" type="trustXY_type" />
+			<xsd:element name="trustH" type="trustH_type" />
+		</xsd:sequence>
+		<xsd:attribute name="number" use="required" type="number_type" />
+	</xsd:complexType>
+
+	<xsd:simpleType name="number_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="46"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="hMax_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="1.0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="maxCountTrc_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="1000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="rMax_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="rMin_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="0"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="azimutMax_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="-3.15"/>
+			<xsd:maxInclusive value="3.15"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="azimutMin_type">
+		<xsd:restriction base="xsd:float">
+			<xsd:minInclusive value="-3.15"/>
+			<xsd:maxInclusive value="3.15"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="trustXY_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="5000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="trustH_type">
+		<xsd:restriction base="xsd:int">
+			<xsd:minInclusive value="1"/>
+			<xsd:maxInclusive value="5000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

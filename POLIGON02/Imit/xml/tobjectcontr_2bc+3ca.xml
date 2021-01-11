@@ -1,0 +1,124 @@
+﻿<?xml version = "1.0"?>
+<!-- ��������������� ������� � 2 ��� -->
+<TObjectContr>
+	<ObjectContr number = "1">
+                <tStart>97.0</tStart>
+		<tFinish>1130.0</tFinish>
+                <tAttack>117.0</tAttack>
+                <tIntervalAttack>1.0</tIntervalAttack>
+		<x>5000.0</x>
+		<y>5000.0</y>
+		<h>10000.0</h>
+		<psi>1.8708</psi>
+		<v>300.0</v>
+		<vh>0</vh>
+		<countManevr>1</countManevr>
+		<OGP>1</OGP>
+		<TLA>1</TLA>
+                <countKR>15</countKR>
+		<TKR>1</TKR>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+        <Manevr number = "1">
+                        <tStart>1370.1</tStart>
+                        <tFinish>183.5</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>5000.0</r>
+		</Manevr>
+     </ObjectContr>		
+
+		<ObjectContr number = "2">
+                <tStart>97.0</tStart>
+		<tFinish>1130.0</tFinish>
+                <tAttack>157.0</tAttack>
+                <tIntervalAttack>1.0</tIntervalAttack>
+		<x>55000.0</x>
+		<y>5000.0</y>
+		<h>10000.0</h>
+		<psi>1.8708</psi>
+		<v>300.0</v>
+		<vh>0</vh>
+		<countManevr>1</countManevr>
+		<OGP>1</OGP>
+		<TLA>1</TLA>
+                <countKR>15</countKR>
+                <TKR>0</TKR>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+        <Manevr number = "1">
+                        <tStart>187.1</tStart>
+                        <tFinish>235.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>5000.0</r>
+		</Manevr>		
+	</ObjectContr>
+	<ObjectContr number = "3">
+                <tStart>97.0</tStart>
+		<tFinish>1130.0</tFinish>
+                <tAttack>157.0</tAttack>
+                <tIntervalAttack>1.0</tIntervalAttack>
+                <x>-25000.0</x>
+		<y>5000.0</y>
+		<h>10000.0</h>
+		<psi>1.2708</psi>
+		<v>300.0</v>
+		<vh>0</vh>
+		<countManevr>1</countManevr>
+		<OGP>1</OGP>
+		<TLA>1</TLA>
+                <countKR>15</countKR>
+                <TKR>0</TKR>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>0</trsChar>
+		<trackImit>1</trackImit>
+        <Manevr number = "1">
+                        <tStart>187.1</tStart>
+                        <tFinish>235.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+                        <r>-5000.0</r>
+		</Manevr>
+     </ObjectContr>
+     <ObjectContr number = "4">
+		<tStart>1.0</tStart>
+                <tFinish>500.0</tFinish>
+                <x>2120000.0</x>
+                <y>-1970000.0</y>
+                <h>100.0</h>
+                <psi>2.3562</psi>
+                <v>6000.0</v>
+                <vh>2425.49</vh>
+		<countManevr>0</countManevr>
+		<OGP>2</OGP>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>3</trsChar>
+		<trackImit>1</trackImit>
+      </ObjectContr>
+      <ObjectContr number = "5">
+		<tStart>1.0</tStart>
+                <tFinish>500.0</tFinish>
+                <x>-1430000.0</x>
+                <y>-2460000.0</y>
+                <h>100.0</h>
+                <psi>1.0612</psi>
+                <v>6000.0</v>
+                <vh>2425.49</vh>
+		<countManevr>0</countManevr>
+		<OGP>2</OGP>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>3</trsChar>
+		<trackImit>1</trackImit>
+	</ObjectContr>	
+</TObjectContr>
+
+
+

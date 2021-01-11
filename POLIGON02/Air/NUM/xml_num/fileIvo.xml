@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ivos>
+		<ivoI ivo="0">
+			<ivoO ivo="0">
+				<state>0</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>3</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>6</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>8</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>9</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="1">
+			<ivoO ivo="0">
+				<state>1</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>1</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>1</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="3">
+			<ivoO ivo="0">
+				<state>3</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>3</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>3</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="4">
+			<ivoO ivo="0">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>4</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="6">
+			<ivoO ivo="0">
+				<state>6</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>6</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>-1</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="6">
+			<ivoO ivo="0">
+				<state>6</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>6</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>-1</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="7">
+			<ivoO ivo="0">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>8</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>7</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="8">
+			<ivoO ivo="0">
+				<state>8</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>8</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>8</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>8</state>
+			</ivoO>
+		</ivoI>
+		<ivoI ivo="9">
+			<ivoO ivo="0">
+				<state>9</state>
+			</ivoO>
+			<ivoO ivo="1">
+				<state>1</state>
+			</ivoO>
+			<ivoO ivo="3">
+				<state>3</state>
+			</ivoO>
+			<ivoO ivo="4">
+				<state>4</state>
+			</ivoO>
+			<ivoO ivo="6">
+				<state>-1</state>
+			</ivoO>
+			<ivoO ivo="7">
+				<state>7</state>
+			</ivoO>
+			<ivoO ivo="8">
+				<state>8</state>
+			</ivoO>
+			<ivoO ivo="9">
+				<state>9</state>
+			</ivoO>
+		</ivoI>
+</ivos>

@@ -1,0 +1,17 @@
+debug/TAir.o
+debug/TGeneralTrackAir.o
+debug/TMsgsFormAir.o
+debug/TTrcProcAir.o
+debug/TPrognProcAir.o
+debug/TZoneProcAir.o
+debug/DispatcherNe.o
+debug/DispatcherTable.o
+debug/GenTrack.o
+debug/Msg.o
+debug/Num.o
+debug/Task.o
+debug/TrackNum.o
+debug/TrcNum.o
+debug/mathd.o
+debug/point_in_zone_checker.o
+debug/qrc_rsrses.o

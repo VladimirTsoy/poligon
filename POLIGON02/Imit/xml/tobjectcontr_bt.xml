@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<!-- Зона эталонов контрольных задач -->
+<TObjectContr>
+	<ObjectContr number = "1">
+		<tStart>1.0</tStart>
+		<tFinish>375.0</tFinish>
+		<x>54800.0</x>
+		<y>-60000.0</y>
+		<h>110.0</h>
+		<psi>0.28539816339</psi>
+		<v>11153.5584</v>
+		<vh>1772.284</vh>
+		<countManevr>0</countManevr>
+		<OGP>2</OGP>
+		<trackBz>1</trackBz>
+		<imitObj>0</imitObj>
+		<trsChar>4</trsChar>
+		<trackImit>1</trackImit>
+	</ObjectContr>
+</TObjectContr>
+
+
+

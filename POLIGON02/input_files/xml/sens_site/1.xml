@@ -1,0 +1,26 @@
+<!---->
+<TSensSite>
+	<SensSite number = '1'>
+		<sensChar>1</sensChar>
+		<x>506520.97</x>
+		<y>-230948.74</y>
+	</SensSite>
+	<SensSite number = '2'>
+		<sensChar>2</sensChar>
+		<x>-9626.07</x>
+		<y>-131184.27</y>
+	</SensSite>
+	<SensSite number = '3'>
+		<sensChar>2</sensChar>
+		<x>503693.19</x>
+		<y>-231955.3</y>
+	</SensSite>
+	<SensSite number = '4'>
+		<sensChar>3</sensChar>
+		<x>-6449.66</x>
+		<y>31144.3</y>
+	</SensSite>
+	<SensSite number = '5'>
+		<sensChar>4</sensChar>
+	</SensSite>
+</TSensSite>

@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- «стратегическая авиация с 2 СКР -->
+<TKRManevr>
+	<KRManevr number = "1">
+		<countManevr>1</countManevr>
+		<Manevr number = "1">
+                        <tStart>270.1</tStart>
+                        <tFinish>271.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>-1155.0</r>
+		</Manevr>
+     </KRManevr>		
+        <KRManevr number = "2">
+		<countManevr>1</countManevr>
+		<Manevr number = "1">
+                        <tStart>270.1</tStart>
+                        <tFinish>291.1</tFinish>
+			<a>0.0</a>
+			<vh>0.0</vh>
+			<r>-1155.0</r>
+		</Manevr>
+     </KRManevr>		
+</TKRManevr>
+
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ivotvo>
+	<tvo tv = "1">
+		<ivo iv = "0" state ="1"/>
+		<ivo iv = "1" state ="-1"/>
+		<ivo iv = "3" state ="1"/>
+		<ivo iv = "9" state ="1"/>
+		<ivo iv = "6" state ="1"/>
+	</tvo>
+	<tvo tv = "2">
+		<ivo iv = "0" state ="1"/>
+		<ivo iv = "1" state ="1"/>
+		<ivo iv = "3" state ="1"/>
+		<ivo iv = "9" state ="1"/>
+		<ivo iv = "6" state ="1"/>
+	</tvo>
+	<tvo tv = "5">
+		<ivo iv = "0" state ="1"/>
+		<ivo iv = "1" state ="-1"/>
+		<ivo iv = "3" state ="1"/>
+		<ivo iv = "9" state ="1"/>
+		<ivo iv = "6" state ="1"/>
+	</tvo>
+	<tvo tv = "8">
+		<ivo iv = "0" state ="1"/>
+		<ivo iv = "1" state ="1"/>
+		<ivo iv = "3" state ="1"/>
+		<ivo iv = "9" state ="1"/>
+		<ivo iv = "6" state ="1"/>
+	</tvo>
+</ivotvo>

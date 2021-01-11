@@ -1,0 +1,8 @@
+ Results of an air targets data process.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+TAir::TrcStateCheck started at 1595430084.00 c... 
+
+=====================================================
+End of the run results.
